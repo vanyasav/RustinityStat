@@ -43,7 +43,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 435,
+    "rank": 436,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 4,
@@ -76,7 +76,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1124,
+    "rank": 1126,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 3,
     "build_floor.triangle": 260,
@@ -109,7 +109,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1451,
+    "rank": 1452,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 4,
@@ -142,7 +142,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 975,
+    "rank": 977,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 13,
@@ -173,9 +173,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48390643"
+      "lastSessionId": "48393285"
     },
-    "rank": 97,
+    "rank": 94,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 12,
@@ -208,7 +208,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 489,
+    "rank": 490,
     "build_floor.frame": 2,
     "build_floor.triangle.frame": 1,
     "build_floor.triangle": 70,
@@ -274,7 +274,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 598,
+    "rank": 599,
     "build_floor.frame": 10,
     "build_floor.triangle.frame": 23,
     "build_floor.triangle": 967,
@@ -373,7 +373,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4122,
+    "rank": 4127,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 0,
@@ -406,7 +406,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3669,
+    "rank": 3673,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 4,
@@ -472,7 +472,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4746,
+    "rank": 4751,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 13,
@@ -505,7 +505,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 361,
+    "rank": 363,
     "build_floor.frame": 10,
     "build_floor.triangle.frame": 1,
     "build_floor.triangle": 214,
@@ -670,7 +670,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1145,
+    "rank": 1147,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 120,
@@ -703,7 +703,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4098,
+    "rank": 4103,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 0,
@@ -736,27 +736,27 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 431,
+    "rank": 420,
     "build_floor.frame": 1,
     "build_floor.triangle.frame": 3,
-    "build_floor.triangle": 87,
-    "build_floor": 58,
+    "build_floor.triangle": 92,
+    "build_floor": 61,
     "build_foundation.steps": 0,
-    "build_foundation.triangle": 98,
-    "build_foundation": 54,
+    "build_foundation.triangle": 103,
+    "build_foundation": 56,
     "build_ramp": 8,
-    "build_roof.triangle": 3,
+    "build_roof.triangle": 5,
     "build_roof": 1,
     "build_stairs.l": 0,
     "build_stairs.spiral.triangle": 0,
     "build_stairs.spiral": 0,
     "build_stairs.u": 0,
-    "build_wall.doorway": 6,
-    "build_wall.frame": 53,
-    "build_wall.half": 90,
+    "build_wall.doorway": 7,
+    "build_wall.frame": 55,
+    "build_wall.half": 98,
     "build_wall.low": 1,
     "build_wall.window": 3,
-    "build_wall": 120
+    "build_wall": 131
   },
   {
     "user": {
@@ -769,7 +769,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2041,
+    "rank": 2042,
     "build_floor.frame": 0,
     "build_floor.triangle.frame": 0,
     "build_floor.triangle": 0,
@@ -856,5 +856,38 @@
     "build_wall.low": 6,
     "build_wall.window": 264,
     "build_wall": 337
+  },
+  {
+    "user": {
+      "id": "61eff955e345af001a1d53c9",
+      "steamId": "76561199130695763",
+      "name": "[RX] DarK",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "48360602"
+    },
+    "rank": 63,
+    "build_floor.frame": 3,
+    "build_floor.triangle.frame": 0,
+    "build_floor.triangle": 108,
+    "build_floor": 116,
+    "build_foundation.steps": 1,
+    "build_foundation.triangle": 27,
+    "build_foundation": 59,
+    "build_ramp": 0,
+    "build_roof.triangle": 0,
+    "build_roof": 35,
+    "build_stairs.l": 0,
+    "build_stairs.spiral.triangle": 0,
+    "build_stairs.spiral": 0,
+    "build_stairs.u": 0,
+    "build_wall.doorway": 11,
+    "build_wall.frame": 79,
+    "build_wall.half": 78,
+    "build_wall.low": 0,
+    "build_wall.window": 28,
+    "build_wall": 150
   }
 ]
