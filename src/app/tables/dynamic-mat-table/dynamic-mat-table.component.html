@@ -1,0 +1,46 @@
+<div class="mat-elevation-z8">
+  <table
+    [dataSource]="dataSource"
+    [matSortActive]="sortColumn[group]"
+    class="mat-elevation-z8"
+    mat-table
+    matSort
+    matSortDirection="desc"
+    matSortDisableClear
+    multiTemplateDataRows
+  >
+    <!-- Column Definitions -->
+    <ng-container
+      *ngFor="let column of displayedColumns"
+      [matColumnDef]="column"
+    >
+      <th *matHeaderCellDef mat-header-cell mat-sort-header>
+        {{ column | translate | titlecase }}
+      </th>
+
+      <ng-container *ngIf="column === 'avatar'">
+        <td *matCellDef="let element" mat-cell>
+          <img [ngSrc]="element[column]" height="50" priority width="50"/>
+        </td>
+      </ng-container>
+      <ng-container *ngIf="column === 'playtime'">
+        <td *matCellDef="let element" mat-cell>
+          {{ element[column] | secondsToHours }}
+        </td>
+      </ng-container>
+      <ng-container *ngIf="column === 'kdr'">
+        <td *matCellDef="let element" mat-cell>
+          {{ element[column] | number: "1.2-2" }}
+        </td>
+      </ng-container>
+      <ng-container
+        *ngIf="column !== 'avatar' && column !== 'playtime' && column !== 'kdr'"
+      >
+        <td *matCellDef="let element" mat-cell>{{ element[column] }}</td>
+      </ng-container>
+    </ng-container>
+    <!-- Row Definitions -->
+    <tr *matHeaderRowDef="displayedColumns" mat-header-row></tr>
+    <tr *matRowDef="let row; columns: displayedColumns" mat-row></tr>
+  </table>
+</div>
