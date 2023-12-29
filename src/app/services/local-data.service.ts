@@ -7,7 +7,7 @@ import {UserStats} from '../models/stats.model';
   providedIn: 'root',
 })
 export class LocalDataService {
-  private dataPath = '/assets/data/'; // Path to your local data
+  private dataPath = '/RustinityStat/assets/data/'; // Path to your local data
 
   constructor(private http: HttpClient) {
   }
