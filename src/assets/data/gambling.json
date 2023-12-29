@@ -31,7 +31,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 435,
+    "rank": 436,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -52,7 +52,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1124,
+    "rank": 1126,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -73,7 +73,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1451,
+    "rank": 1452,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -94,7 +94,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 975,
+    "rank": 977,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -113,9 +113,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48390643"
+      "lastSessionId": "48393285"
     },
-    "rank": 97,
+    "rank": 94,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -136,7 +136,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 489,
+    "rank": 490,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -178,7 +178,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 598,
+    "rank": 599,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -241,7 +241,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4122,
+    "rank": 4127,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -262,7 +262,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3669,
+    "rank": 3673,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -304,7 +304,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4746,
+    "rank": 4751,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -325,7 +325,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 361,
+    "rank": 363,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -430,7 +430,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1145,
+    "rank": 1147,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -451,7 +451,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4098,
+    "rank": 4103,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -472,7 +472,7 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 431,
+    "rank": 420,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -493,7 +493,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2041,
+    "rank": 2042,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -542,6 +542,27 @@
     "gambling_slotdeposited": 0,
     "gambling_wheelwon": 0,
     "gambling_wheeldeposited": 0,
+    "gambling_blackjackdeposited": 0,
+    "gambling_blackjackwon": 0
+  },
+  {
+    "user": {
+      "id": "61eff955e345af001a1d53c9",
+      "steamId": "76561199130695763",
+      "name": "[RX] DarK",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "48360602"
+    },
+    "rank": 63,
+    "gambling_pokerwon": 0,
+    "gambling_pokerdeposited": 0,
+    "gambling_slotwon": 0,
+    "gambling_slotdeposited": 0,
+    "gambling_wheelwon": 1348,
+    "gambling_wheeldeposited": 3385,
     "gambling_blackjackdeposited": 0,
     "gambling_blackjackwon": 0
   }
