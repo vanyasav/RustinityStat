@@ -10,3 +10,7 @@ th, td {
   white-space: normal;
   word-wrap: break-word;
 }
+
+mat-header-cell, mat-cell {
+  justify-content: center;
+}

@@ -15,7 +15,7 @@
       [matColumnDef]="column"
     >
       <th *matHeaderCellDef mat-header-cell mat-sort-header>
-        {{ column | translate | titlecase }}
+        {{ column | translate  }}
       </th>
 
       <ng-container *ngIf="column === 'avatar'">

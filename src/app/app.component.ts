@@ -27,8 +27,8 @@ export class AppComponent {
   title = 'RX Rustinity EU Large stats';
 
   constructor(public translate: TranslateService) {
-    translate.addLangs(['en', 'ru', 'fr']); // Add languages to the list
-    translate.setDefaultLang('en'); // Set default language
+    translate.addLangs(['en', 'ru']); // Add languages to the list
+    translate.setDefaultLang('ru'); // Set default language
 
     // const browserLang = translate.getBrowserLang();
     // translate.use(browserLang.match(/en|es|fr/) ? browserLang : 'en');

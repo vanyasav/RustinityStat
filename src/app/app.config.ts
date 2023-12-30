@@ -23,7 +23,7 @@ export const appConfig: ApplicationConfig = {
           useFactory: createTranslateLoader,
           deps: [HttpClient],
         },
-        defaultLanguage: 'de', // change here en to fr to see french language default.
+        defaultLanguage: 'ru', // change here en to fr to see french language default.
       }),
     ),
   ],

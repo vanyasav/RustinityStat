@@ -32,9 +32,9 @@ export class DynamicMatTableComponent implements OnInit {
   selectedGroup = '';
   sortColumn: Record<string, string> = {
     pvp: 'playtime',
-    pve: 'killed_tunneldweller',
+    pve: 'killed_scientist',
     gambling: 'gambling_wheeldeposited',
-    looted: 'looted_barrel',
+    looted: 'looted_crate',
     building: 'build_wall',
     item_placed: 'build_sleepingbag_leather_deployed',
     recycled: 'recycled_semibody',
