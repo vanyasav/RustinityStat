@@ -8,12 +8,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48150878"
+      "lastSessionId": "49121632"
     },
-    "rank": 640,
+    "rank": 186,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 164,
+    "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -28,12 +28,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48032351"
+      "lastSessionId": "49105928"
     },
-    "rank": 435,
+    "rank": 2041,
     "gathered_deermeat.raw": 0,
-    "gathered_meat.boar": 22,
-    "gathered_bearmeat": 264,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -48,14 +48,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "47904050"
+      "lastSessionId": "49105779"
     },
-    "rank": 1125,
+    "rank": 1308,
     "gathered_deermeat.raw": 0,
-    "gathered_meat.boar": 14,
-    "gathered_bearmeat": 0,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 30,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 4,
+    "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -68,9 +68,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48034067"
+      "lastSessionId": "48820057"
     },
-    "rank": 1451,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
@@ -90,7 +90,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 975,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
@@ -108,14 +108,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48390643"
+      "lastSessionId": "49121656"
     },
-    "rank": 97,
+    "rank": 103,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 10,
+    "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -128,14 +128,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48387226"
+      "lastSessionId": "49127795"
     },
-    "rank": 489,
+    "rank": 627,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 30,
+    "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 0,
+    "gathered_humanmeat.raw": 4,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -148,12 +148,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48151249"
+      "lastSessionId": "49063525"
     },
-    "rank": 3084,
+    "rank": 1341,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 0,
+    "gathered_bearmeat": 90,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -168,14 +168,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48364931"
+      "lastSessionId": "49104053"
     },
-    "rank": 598,
+    "rank": 619,
     "gathered_deermeat.raw": 0,
-    "gathered_meat.boar": 14,
-    "gathered_bearmeat": 70,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 68,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 2,
+    "gathered_humanmeat.raw": 10,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -188,12 +188,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48385613"
+      "lastSessionId": "49119295"
     },
-    "rank": 14,
+    "rank": 256,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 168,
+    "gathered_bearmeat": 138,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -230,7 +230,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4122,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
@@ -250,12 +250,12 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3669,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 14,
+    "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -268,12 +268,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48373541"
+      "lastSessionId": "49123270"
     },
-    "rank": 144,
+    "rank": 453,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 204,
+    "gathered_bearmeat": 20,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -288,9 +288,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48347524"
+      "lastSessionId": "49126909"
     },
-    "rank": 4746,
+    "rank": 528,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
@@ -310,12 +310,12 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 361,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 10,
+    "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -328,14 +328,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48374462"
+      "lastSessionId": "49121574"
     },
-    "rank": 6,
+    "rank": 43,
     "gathered_deermeat.raw": 0,
-    "gathered_meat.boar": 54,
-    "gathered_bearmeat": 262,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 32,
     "gathered_horsemeat.raw": 0,
-    "gathered_humanmeat.raw": 30,
+    "gathered_humanmeat.raw": 10,
     "gathered_chicken.raw": 0,
     "gathered_wolfmeat.raw": 0
   },
@@ -348,12 +348,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "46322012"
+      "lastSessionId": "49120298"
     },
-    "rank": null,
+    "rank": 312,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 0,
+    "gathered_bearmeat": 246,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -408,12 +408,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48348167"
+      "lastSessionId": "49090569"
     },
-    "rank": 1145,
+    "rank": 2110,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 162,
+    "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -430,10 +430,10 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4098,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 196,
+    "gathered_bearmeat": 0,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -448,12 +448,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48391054"
+      "lastSessionId": "49120434"
     },
-    "rank": 431,
+    "rank": 640,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 172,
+    "gathered_bearmeat": 164,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
@@ -470,7 +470,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2041,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
     "gathered_bearmeat": 0,
@@ -510,10 +510,50 @@
       "roleColor": null,
       "lastSessionId": "47906299"
     },
-    "rank": 1648,
+    "rank": null,
     "gathered_deermeat.raw": 0,
     "gathered_meat.boar": 0,
-    "gathered_bearmeat": 38,
+    "gathered_bearmeat": 0,
+    "gathered_horsemeat.raw": 0,
+    "gathered_humanmeat.raw": 0,
+    "gathered_chicken.raw": 0,
+    "gathered_wolfmeat.raw": 0
+  },
+  {
+    "user": {
+      "id": "61eff955e345af001a1d53c9",
+      "steamId": "76561199130695763",
+      "name": "[RX] DarK",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49123846"
+    },
+    "rank": 233,
+    "gathered_deermeat.raw": 0,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 0,
+    "gathered_horsemeat.raw": 0,
+    "gathered_humanmeat.raw": 0,
+    "gathered_chicken.raw": 0,
+    "gathered_wolfmeat.raw": 0
+  },
+  {
+    "user": {
+      "id": "645c9ba620477d0013fa2c56",
+      "steamId": "76561199473032551",
+      "name": ".sematary",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/14/14f67cfb1a1936c6c68944d9700f708a7cb53776_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49127460"
+    },
+    "rank": 455,
+    "gathered_deermeat.raw": 0,
+    "gathered_meat.boar": 0,
+    "gathered_bearmeat": 36,
     "gathered_horsemeat.raw": 0,
     "gathered_humanmeat.raw": 0,
     "gathered_chicken.raw": 0,
