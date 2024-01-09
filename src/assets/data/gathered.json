@@ -32,7 +32,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 436,
+    "rank": 435,
     "gathered_stones": 42140,
     "gathered_wood": 398720,
     "gathered_hq.metal.ore": 282,
@@ -54,7 +54,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1126,
+    "rank": 1125,
     "gathered_stones": 60158,
     "gathered_wood": 125278,
     "gathered_hq.metal.ore": 184,
@@ -76,7 +76,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1452,
+    "rank": 1451,
     "gathered_stones": 0,
     "gathered_wood": 1050,
     "gathered_hq.metal.ore": 402,
@@ -98,7 +98,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 977,
+    "rank": 975,
     "gathered_stones": 0,
     "gathered_wood": 3724,
     "gathered_hq.metal.ore": 0,
@@ -118,18 +118,18 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48393285"
+      "lastSessionId": "48390643"
     },
-    "rank": 94,
-    "gathered_stones": 137316,
-    "gathered_wood": 279718,
-    "gathered_hq.metal.ore": 1336,
-    "gathered_sulfur.ore": 246188,
-    "gathered_cloth": 1348,
+    "rank": 97,
+    "gathered_stones": 124916,
+    "gathered_wood": 266444,
+    "gathered_hq.metal.ore": 1296,
+    "gathered_sulfur.ore": 243788,
+    "gathered_cloth": 1038,
     "gathered_leather": 0,
     "gathered_cactusflesh": 0,
     "gathered_fat.animal": 0,
-    "gathered_metal.ore": 397960
+    "gathered_metal.ore": 385660
   },
   {
     "user": {
@@ -142,7 +142,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 490,
+    "rank": 489,
     "gathered_stones": 493140,
     "gathered_wood": 1362030,
     "gathered_hq.metal.ore": 2162,
@@ -186,7 +186,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 599,
+    "rank": 598,
     "gathered_stones": 148072,
     "gathered_wood": 973948,
     "gathered_hq.metal.ore": 544,
@@ -252,7 +252,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4127,
+    "rank": 4122,
     "gathered_stones": 0,
     "gathered_wood": 0,
     "gathered_hq.metal.ore": 0,
@@ -274,7 +274,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3673,
+    "rank": 3669,
     "gathered_stones": 0,
     "gathered_wood": 1624,
     "gathered_hq.metal.ore": 0,
@@ -318,7 +318,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4751,
+    "rank": 4746,
     "gathered_stones": 100,
     "gathered_wood": 2212,
     "gathered_hq.metal.ore": 0,
@@ -340,7 +340,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 363,
+    "rank": 361,
     "gathered_stones": 59368,
     "gathered_wood": 192386,
     "gathered_hq.metal.ore": 68,
@@ -450,7 +450,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1147,
+    "rank": 1145,
     "gathered_stones": 179428,
     "gathered_wood": 159028,
     "gathered_hq.metal.ore": 1046,
@@ -472,7 +472,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4103,
+    "rank": 4098,
     "gathered_stones": 58000,
     "gathered_wood": 23418,
     "gathered_hq.metal.ore": 128,
@@ -494,16 +494,16 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 420,
-    "gathered_stones": 85554,
-    "gathered_wood": 435146,
-    "gathered_hq.metal.ore": 786,
-    "gathered_sulfur.ore": 113464,
-    "gathered_cloth": 3078,
-    "gathered_leather": 1064,
+    "rank": 431,
+    "gathered_stones": 83354,
+    "gathered_wood": 410542,
+    "gathered_hq.metal.ore": 782,
+    "gathered_sulfur.ore": 112664,
+    "gathered_cloth": 2732,
+    "gathered_leather": 1012,
     "gathered_cactusflesh": 0,
-    "gathered_fat.animal": 1030,
-    "gathered_metal.ore": 236972
+    "gathered_fat.animal": 920,
+    "gathered_metal.ore": 235772
   },
   {
     "user": {
@@ -516,7 +516,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2042,
+    "rank": 2041,
     "gathered_stones": 17100,
     "gathered_wood": 0,
     "gathered_hq.metal.ore": 120,
@@ -570,27 +570,5 @@
     "gathered_cactusflesh": 0,
     "gathered_fat.animal": 200,
     "gathered_metal.ore": 0
-  },
-  {
-    "user": {
-      "id": "61eff955e345af001a1d53c9",
-      "steamId": "76561199130695763",
-      "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48360602"
-    },
-    "rank": 63,
-    "gathered_stones": 184786,
-    "gathered_wood": 1068380,
-    "gathered_hq.metal.ore": 480,
-    "gathered_sulfur.ore": 360452,
-    "gathered_cloth": 1314,
-    "gathered_leather": 0,
-    "gathered_cactusflesh": 0,
-    "gathered_fat.animal": 0,
-    "gathered_metal.ore": 144152
   }
 ]

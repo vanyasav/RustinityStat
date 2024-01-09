@@ -28,7 +28,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 436,
+    "rank": 435,
     "hit_npc_headshot": 150,
     "hit_player": 1137,
     "hit_player_headshot": 152,
@@ -46,7 +46,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1126,
+    "rank": 1125,
     "hit_npc_headshot": 41,
     "hit_player": 447,
     "hit_player_headshot": 95,
@@ -64,7 +64,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1452,
+    "rank": 1451,
     "hit_npc_headshot": 61,
     "hit_player": 265,
     "hit_player_headshot": 41,
@@ -82,7 +82,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 977,
+    "rank": 975,
     "hit_npc_headshot": 41,
     "hit_player": 526,
     "hit_player_headshot": 94,
@@ -100,12 +100,12 @@
       "roleColor": null,
       "lastSessionId": "48393285"
     },
-    "rank": 94,
-    "hit_npc_headshot": 827,
-    "hit_player": 2111,
-    "hit_player_headshot": 318,
+    "rank": 97,
+    "hit_npc_headshot": 742,
+    "hit_player": 2081,
+    "hit_player_headshot": 314,
     "hit_building": 15,
-    "hit_npc": 251
+    "hit_npc": 247
   },
   {
     "user": {
@@ -118,7 +118,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 490,
+    "rank": 489,
     "hit_npc_headshot": 30,
     "hit_player": 1034,
     "hit_player_headshot": 144,
@@ -154,7 +154,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 599,
+    "rank": 598,
     "hit_npc_headshot": 68,
     "hit_player": 804,
     "hit_player_headshot": 167,
@@ -208,7 +208,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4127,
+    "rank": 4122,
     "hit_npc_headshot": 0,
     "hit_player": 37,
     "hit_player_headshot": 12,
@@ -226,7 +226,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3673,
+    "rank": 3670,
     "hit_npc_headshot": 0,
     "hit_player": 48,
     "hit_player_headshot": 15,
@@ -262,7 +262,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4751,
+    "rank": 4746,
     "hit_npc_headshot": 39,
     "hit_player": 48,
     "hit_player_headshot": 7,
@@ -280,7 +280,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 363,
+    "rank": 361,
     "hit_npc_headshot": 165,
     "hit_player": 973,
     "hit_player_headshot": 193,
@@ -370,7 +370,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1147,
+    "rank": 1145,
     "hit_npc_headshot": 390,
     "hit_player": 736,
     "hit_player_headshot": 79,
@@ -388,7 +388,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4103,
+    "rank": 4098,
     "hit_npc_headshot": 19,
     "hit_player": 63,
     "hit_player_headshot": 21,
@@ -406,12 +406,12 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 420,
+    "rank": 431,
     "hit_npc_headshot": 181,
-    "hit_player": 1076,
-    "hit_player_headshot": 170,
+    "hit_player": 1049,
+    "hit_player_headshot": 165,
     "hit_building": 1,
-    "hit_npc": 94
+    "hit_npc": 91
   },
   {
     "user": {
@@ -424,7 +424,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2042,
+    "rank": 2041,
     "hit_npc_headshot": 23,
     "hit_player": 266,
     "hit_player_headshot": 56,
@@ -466,23 +466,5 @@
     "hit_player_headshot": 34,
     "hit_building": 12,
     "hit_npc": 0
-  },
-  {
-    "user": {
-      "id": "61eff955e345af001a1d53c9",
-      "steamId": "76561199130695763",
-      "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48360602"
-    },
-    "rank": 63,
-    "hit_npc_headshot": 450,
-    "hit_player": 2269,
-    "hit_player_headshot": 460,
-    "hit_building": 205,
-    "hit_npc": 134
   }
 ]
