@@ -38,7 +38,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 436,
+    "rank": 435,
     "recycled_techparts": 0,
     "recycled_smgbody": 2,
     "recycled_metalblade": 11,
@@ -66,7 +66,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1126,
+    "rank": 1124,
     "recycled_techparts": 15,
     "recycled_smgbody": 28,
     "recycled_metalblade": 80,
@@ -94,7 +94,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1452,
+    "rank": 1451,
     "recycled_techparts": 3,
     "recycled_smgbody": 0,
     "recycled_metalblade": 23,
@@ -122,7 +122,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 977,
+    "rank": 975,
     "recycled_techparts": 512,
     "recycled_smgbody": 73,
     "recycled_metalblade": 0,
@@ -148,24 +148,24 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48393285"
+      "lastSessionId": "48390643"
     },
-    "rank": 94,
+    "rank": 97,
     "recycled_techparts": 93,
     "recycled_smgbody": 71,
-    "recycled_metalblade": 174,
-    "recycled_fuse": 79,
+    "recycled_metalblade": 172,
+    "recycled_fuse": 77,
     "recycled_sheetmetal": 44,
-    "recycled_rope": 1345,
-    "recycled_tarp": 85,
-    "recycled_sewingkit": 511,
-    "recycled_roadsigns": 146,
-    "recycled_metalspring": 6,
-    "recycled_semibody": 119,
+    "recycled_rope": 1323,
+    "recycled_tarp": 81,
+    "recycled_sewingkit": 505,
+    "recycled_roadsigns": 140,
+    "recycled_metalspring": 4,
+    "recycled_semibody": 115,
     "recycled_riflebody": 24,
-    "recycled_metalpipe": 115,
-    "recycled_gears": 91,
-    "recycled_propanetank": 70
+    "recycled_metalpipe": 113,
+    "recycled_gears": 90,
+    "recycled_propanetank": 68
   },
   {
     "user": {
@@ -178,7 +178,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 490,
+    "rank": 489,
     "recycled_techparts": 0,
     "recycled_smgbody": 0,
     "recycled_metalblade": 20,
@@ -234,7 +234,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 599,
+    "rank": 598,
     "recycled_techparts": 9,
     "recycled_smgbody": 1,
     "recycled_metalblade": 511,
@@ -318,7 +318,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4127,
+    "rank": 4122,
     "recycled_techparts": 0,
     "recycled_smgbody": 0,
     "recycled_metalblade": 0,
@@ -346,7 +346,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3673,
+    "rank": 3669,
     "recycled_techparts": 0,
     "recycled_smgbody": 0,
     "recycled_metalblade": 0,
@@ -402,7 +402,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4751,
+    "rank": 4746,
     "recycled_techparts": 0,
     "recycled_smgbody": 0,
     "recycled_metalblade": 0,
@@ -430,7 +430,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 363,
+    "rank": 361,
     "recycled_techparts": 22,
     "recycled_smgbody": 0,
     "recycled_metalblade": 98,
@@ -570,7 +570,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1147,
+    "rank": 1145,
     "recycled_techparts": 46,
     "recycled_smgbody": 29,
     "recycled_metalblade": 41,
@@ -598,7 +598,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4103,
+    "rank": 4098,
     "recycled_techparts": 0,
     "recycled_smgbody": 0,
     "recycled_metalblade": 0,
@@ -626,21 +626,21 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 420,
+    "rank": 431,
     "recycled_techparts": 2,
     "recycled_smgbody": 4,
-    "recycled_metalblade": 73,
+    "recycled_metalblade": 67,
     "recycled_fuse": 18,
-    "recycled_sheetmetal": 16,
-    "recycled_rope": 611,
+    "recycled_sheetmetal": 10,
+    "recycled_rope": 584,
     "recycled_tarp": 30,
-    "recycled_sewingkit": 253,
-    "recycled_roadsigns": 58,
-    "recycled_metalspring": 6,
+    "recycled_sewingkit": 241,
+    "recycled_roadsigns": 52,
+    "recycled_metalspring": 2,
     "recycled_semibody": 4,
     "recycled_riflebody": 0,
-    "recycled_metalpipe": 15,
-    "recycled_gears": 30,
+    "recycled_metalpipe": 13,
+    "recycled_gears": 26,
     "recycled_propanetank": 36
   },
   {
@@ -654,7 +654,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2042,
+    "rank": 2041,
     "recycled_techparts": 2,
     "recycled_smgbody": 0,
     "recycled_metalblade": 4,
@@ -726,33 +726,5 @@
     "recycled_metalpipe": 0,
     "recycled_gears": 0,
     "recycled_propanetank": 0
-  },
-  {
-    "user": {
-      "id": "61eff955e345af001a1d53c9",
-      "steamId": "76561199130695763",
-      "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48360602"
-    },
-    "rank": 63,
-    "recycled_techparts": 182,
-    "recycled_smgbody": 71,
-    "recycled_metalblade": 46,
-    "recycled_fuse": 103,
-    "recycled_sheetmetal": 16,
-    "recycled_rope": 942,
-    "recycled_tarp": 62,
-    "recycled_sewingkit": 427,
-    "recycled_roadsigns": 206,
-    "recycled_metalspring": 8,
-    "recycled_semibody": 67,
-    "recycled_riflebody": 37,
-    "recycled_metalpipe": 31,
-    "recycled_gears": 28,
-    "recycled_propanetank": 43
   }
 ]

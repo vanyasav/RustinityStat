@@ -36,7 +36,7 @@
       "roleColor": null,
       "lastSessionId": "48032351"
     },
-    "rank": 436,
+    "rank": 435,
     "thrown_explosive.timed": 7,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -62,7 +62,7 @@
       "roleColor": null,
       "lastSessionId": "47904050"
     },
-    "rank": 1126,
+    "rank": 1125,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -88,7 +88,7 @@
       "roleColor": null,
       "lastSessionId": "48034067"
     },
-    "rank": 1452,
+    "rank": 1451,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -114,7 +114,7 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 977,
+    "rank": 975,
     "thrown_explosive.timed": 6,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -138,9 +138,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48393285"
+      "lastSessionId": "48390643"
     },
-    "rank": 94,
+    "rank": 97,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -166,7 +166,7 @@
       "roleColor": null,
       "lastSessionId": "48387226"
     },
-    "rank": 490,
+    "rank": 489,
     "thrown_explosive.timed": 1,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -218,7 +218,7 @@
       "roleColor": null,
       "lastSessionId": "48364931"
     },
-    "rank": 599,
+    "rank": 598,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 20,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -296,7 +296,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4127,
+    "rank": 4122,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -322,7 +322,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3673,
+    "rank": 3670,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -374,7 +374,7 @@
       "roleColor": null,
       "lastSessionId": "48347524"
     },
-    "rank": 4751,
+    "rank": 4746,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -400,7 +400,7 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 363,
+    "rank": 361,
     "thrown_explosive.timed": 5,
     "shot_ammo.grenadelauncher.he": 1,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -530,7 +530,7 @@
       "roleColor": null,
       "lastSessionId": "48348167"
     },
-    "rank": 1147,
+    "rank": 1145,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 6,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -556,7 +556,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4103,
+    "rank": 4098,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -582,7 +582,7 @@
       "roleColor": null,
       "lastSessionId": "48391054"
     },
-    "rank": 420,
+    "rank": 431,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -608,7 +608,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2042,
+    "rank": 2041,
     "thrown_explosive.timed": 0,
     "shot_ammo.grenadelauncher.he": 0,
     "shot_ammo.grenadelauncher.smoke": 0,
@@ -674,31 +674,5 @@
     "thrown_grenade.molotov": 0,
     "thrown_explosive.satchel": 0,
     "thrown_grenade.smoke": 3
-  },
-  {
-    "user": {
-      "id": "61eff955e345af001a1d53c9",
-      "steamId": "76561199130695763",
-      "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48360602"
-    },
-    "rank": 63,
-    "thrown_explosive.timed": 23,
-    "shot_ammo.grenadelauncher.he": 44,
-    "shot_ammo.grenadelauncher.smoke": 6,
-    "shot_ammo.rifle.explosive": 2347,
-    "shot_ammo.rocket.hv": 61,
-    "shot_ammo.rocket.fire": 1,
-    "shot_ammo.rocket.basic": 183,
-    "thrown_grenade.beancan": 0,
-    "thrown_grenade.f1": 91,
-    "thrown_grenade.flashbang": 2,
-    "thrown_grenade.molotov": 8,
-    "thrown_explosive.satchel": 54,
-    "thrown_grenade.smoke": 8
   }
 ]
