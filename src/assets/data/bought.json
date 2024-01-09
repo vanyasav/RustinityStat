@@ -8,14 +8,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48150878"
+      "lastSessionId": "49121632"
     },
-    "rank": 640,
+    "rank": 186,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
-    "bought_minicopter.entity": 2,
+    "bought_minicopter.entity": 0,
     "bought_scraptransporthelicopter": 0
   },
   {
@@ -27,10 +27,10 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48032351"
+      "lastSessionId": "49105928"
     },
-    "rank": 435,
-    "bought_rowboat": 1,
+    "rank": 2042,
+    "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
@@ -46,10 +46,10 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "47904050"
+      "lastSessionId": "49105779"
     },
-    "rank": 1125,
-    "bought_rowboat": 4,
+    "rank": 1308,
+    "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
@@ -65,9 +65,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48034067"
+      "lastSessionId": "48820057"
     },
-    "rank": 1451,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -86,12 +86,12 @@
       "roleColor": null,
       "lastSessionId": "48074758"
     },
-    "rank": 975,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
-    "bought_minicopter.entity": 1,
+    "bought_minicopter.entity": 0,
     "bought_scraptransporthelicopter": 0
   },
   {
@@ -103,14 +103,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48390643"
+      "lastSessionId": "49121656"
     },
-    "rank": 97,
-    "bought_rowboat": 1,
+    "rank": 103,
+    "bought_rowboat": 2,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
-    "bought_minicopter.entity": 0,
+    "bought_minicopter.entity": 1,
     "bought_scraptransporthelicopter": 0
   },
   {
@@ -122,9 +122,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48387226"
+      "lastSessionId": "49127795"
     },
-    "rank": 489,
+    "rank": 627,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -141,9 +141,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48151249"
+      "lastSessionId": "49063525"
     },
-    "rank": 3084,
+    "rank": 1342,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -160,14 +160,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48364931"
+      "lastSessionId": "49104053"
     },
-    "rank": 598,
-    "bought_rowboat": 7,
+    "rank": 619,
+    "bought_rowboat": 4,
     "bought_rhib": 0,
-    "bought_submarinesolo.entity": 0,
+    "bought_submarinesolo.entity": 1,
     "bought_submarineduo.entity": 0,
-    "bought_minicopter.entity": 0,
+    "bought_minicopter.entity": 1,
     "bought_scraptransporthelicopter": 0
   },
   {
@@ -179,9 +179,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48385613"
+      "lastSessionId": "49119295"
     },
-    "rank": 14,
+    "rank": 256,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -219,7 +219,7 @@
       "roleColor": null,
       "lastSessionId": "48045494"
     },
-    "rank": 4122,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -238,7 +238,7 @@
       "roleColor": null,
       "lastSessionId": "47604340"
     },
-    "rank": 3670,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -255,15 +255,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48373541"
+      "lastSessionId": "49123270"
     },
-    "rank": 144,
-    "bought_rowboat": 1,
+    "rank": 453,
+    "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
     "bought_minicopter.entity": 0,
-    "bought_scraptransporthelicopter": 1
+    "bought_scraptransporthelicopter": 0
   },
   {
     "user": {
@@ -274,9 +274,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48347524"
+      "lastSessionId": "49126909"
     },
-    "rank": 4746,
+    "rank": 528,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -295,8 +295,8 @@
       "roleColor": null,
       "lastSessionId": "48269552"
     },
-    "rank": 361,
-    "bought_rowboat": 2,
+    "rank": null,
+    "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
@@ -312,9 +312,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48374462"
+      "lastSessionId": "49121574"
     },
-    "rank": 6,
+    "rank": 43,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -331,9 +331,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "46322012"
+      "lastSessionId": "49120298"
     },
-    "rank": null,
+    "rank": 307,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -388,9 +388,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48348167"
+      "lastSessionId": "49090569"
     },
-    "rank": 1145,
+    "rank": 2110,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -409,7 +409,7 @@
       "roleColor": null,
       "lastSessionId": "47215915"
     },
-    "rank": 4098,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -426,9 +426,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48391054"
+      "lastSessionId": "49120434"
     },
-    "rank": 431,
+    "rank": 640,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -447,7 +447,7 @@
       "roleColor": null,
       "lastSessionId": "47994472"
     },
-    "rank": 2041,
+    "rank": null,
     "bought_rowboat": 0,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
@@ -485,8 +485,46 @@
       "roleColor": null,
       "lastSessionId": "47906299"
     },
-    "rank": 1648,
+    "rank": null,
     "bought_rowboat": 0,
+    "bought_rhib": 0,
+    "bought_submarinesolo.entity": 0,
+    "bought_submarineduo.entity": 0,
+    "bought_minicopter.entity": 0,
+    "bought_scraptransporthelicopter": 0
+  },
+  {
+    "user": {
+      "id": "61eff955e345af001a1d53c9",
+      "steamId": "76561199130695763",
+      "name": "[RX] DarK",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49123846"
+    },
+    "rank": 233,
+    "bought_rowboat": 0,
+    "bought_rhib": 0,
+    "bought_submarinesolo.entity": 0,
+    "bought_submarineduo.entity": 0,
+    "bought_minicopter.entity": 2,
+    "bought_scraptransporthelicopter": 0
+  },
+  {
+    "user": {
+      "id": "645c9ba620477d0013fa2c56",
+      "steamId": "76561199473032551",
+      "name": ".sematary",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/14/14f67cfb1a1936c6c68944d9700f708a7cb53776_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49127460"
+    },
+    "rank": 455,
+    "bought_rowboat": 1,
     "bought_rhib": 0,
     "bought_submarinesolo.entity": 0,
     "bought_submarineduo.entity": 0,
