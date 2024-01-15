@@ -10,7 +10,7 @@
       "roleColor": null,
       "lastSessionId": "49172644"
     },
-    "rank": 237,
+    "rank": 283,
     "build_sleepingbag_leather_deployed": 77,
     "build_bed_deployed": 8,
     "build_locker.deployed": 0,
@@ -38,16 +38,16 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49365384"
+      "lastSessionId": "49469139"
     },
-    "rank": 2582,
-    "build_sleepingbag_leather_deployed": 12,
+    "rank": 2137,
+    "build_sleepingbag_leather_deployed": 22,
     "build_bed_deployed": 1,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
     "build_cupboard.tool.deployed": 0,
     "build_vendingmachine.deployed": 0,
-    "build_woodbox_deployed": 0,
+    "build_woodbox_deployed": 1,
     "build_flameturret.deployed": 0,
     "build_sam_site_turret_deployed": 0,
     "build_furnace": 0,
@@ -68,11 +68,11 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363883"
+      "lastSessionId": "49472255"
     },
-    "rank": 1862,
-    "build_sleepingbag_leather_deployed": 2,
-    "build_bed_deployed": 10,
+    "rank": 1851,
+    "build_sleepingbag_leather_deployed": 4,
+    "build_bed_deployed": 13,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
     "build_cupboard.tool.deployed": 0,
@@ -83,7 +83,7 @@
     "build_furnace": 0,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 0,
+    "build_wall.external.high.stone": 1,
     "build_wall.external.high.wood": 0,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
@@ -128,11 +128,11 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364481"
+      "lastSessionId": "49450661"
     },
-    "rank": 63,
-    "build_sleepingbag_leather_deployed": 49,
-    "build_bed_deployed": 4,
+    "rank": 65,
+    "build_sleepingbag_leather_deployed": 51,
+    "build_bed_deployed": 15,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
     "build_cupboard.tool.deployed": 5,
@@ -143,7 +143,7 @@
     "build_furnace": 5,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 16,
+    "build_wall.external.high.stone": 21,
     "build_wall.external.high.wood": 18,
     "build_gates.external.high.stone": 1,
     "build_gates.external.high.wood": 0,
@@ -158,10 +158,10 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363970"
+      "lastSessionId": "49449752"
     },
-    "rank": 589,
-    "build_sleepingbag_leather_deployed": 22,
+    "rank": 619,
+    "build_sleepingbag_leather_deployed": 24,
     "build_bed_deployed": 3,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
@@ -188,9 +188,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49278567"
+      "lastSessionId": "49468620"
     },
-    "rank": 1644,
+    "rank": 1814,
     "build_sleepingbag_leather_deployed": 26,
     "build_bed_deployed": 2,
     "build_locker.deployed": 0,
@@ -218,14 +218,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363614"
+      "lastSessionId": "49459344"
     },
-    "rank": 432,
-    "build_sleepingbag_leather_deployed": 2,
-    "build_bed_deployed": 4,
+    "rank": 372,
+    "build_sleepingbag_leather_deployed": 3,
+    "build_bed_deployed": 22,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
-    "build_cupboard.tool.deployed": 47,
+    "build_cupboard.tool.deployed": 52,
     "build_vendingmachine.deployed": 0,
     "build_woodbox_deployed": 2,
     "build_flameturret.deployed": 0,
@@ -233,11 +233,11 @@
     "build_furnace": 12,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 5,
-    "build_wall.external.high.wood": 16,
-    "build_gates.external.high.stone": 0,
+    "build_wall.external.high.stone": 38,
+    "build_wall.external.high.wood": 22,
+    "build_gates.external.high.stone": 3,
     "build_gates.external.high.wood": 0,
-    "build_box.wooden.large": 7
+    "build_box.wooden.large": 23
   },
   {
     "user": {
@@ -248,10 +248,10 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363427"
+      "lastSessionId": "49450541"
     },
     "rank": 123,
-    "build_sleepingbag_leather_deployed": 35,
+    "build_sleepingbag_leather_deployed": 36,
     "build_bed_deployed": 18,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
@@ -264,7 +264,7 @@
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
     "build_wall.external.high.stone": 3,
-    "build_wall.external.high.wood": 10,
+    "build_wall.external.high.wood": 11,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
     "build_box.wooden.large": 6
@@ -278,26 +278,26 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364299"
+      "lastSessionId": "49471829"
     },
-    "rank": 387,
-    "build_sleepingbag_leather_deployed": 9,
-    "build_bed_deployed": 6,
+    "rank": 389,
+    "build_sleepingbag_leather_deployed": 12,
+    "build_bed_deployed": 7,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
-    "build_cupboard.tool.deployed": 6,
+    "build_cupboard.tool.deployed": 7,
     "build_vendingmachine.deployed": 0,
-    "build_woodbox_deployed": 8,
+    "build_woodbox_deployed": 9,
     "build_flameturret.deployed": 0,
     "build_sam_site_turret_deployed": 0,
     "build_furnace": 0,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
     "build_wall.external.high.stone": 8,
-    "build_wall.external.high.wood": 11,
+    "build_wall.external.high.wood": 19,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
-    "build_box.wooden.large": 39
+    "build_box.wooden.large": 78
   },
   {
     "user": {
@@ -308,9 +308,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49315302"
+      "lastSessionId": "49468696"
     },
-    "rank": 586,
+    "rank": 612,
     "build_sleepingbag_leather_deployed": 4,
     "build_bed_deployed": 0,
     "build_locker.deployed": 0,
@@ -323,7 +323,7 @@
     "build_furnace": 2,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 1,
+    "build_wall.external.high.stone": 3,
     "build_wall.external.high.wood": 10,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
@@ -368,26 +368,26 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49362981"
+      "lastSessionId": "49456396"
     },
-    "rank": 28,
-    "build_sleepingbag_leather_deployed": 7,
-    "build_bed_deployed": 36,
+    "rank": 26,
+    "build_sleepingbag_leather_deployed": 8,
+    "build_bed_deployed": 42,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
-    "build_cupboard.tool.deployed": 38,
+    "build_cupboard.tool.deployed": 39,
     "build_vendingmachine.deployed": 0,
-    "build_woodbox_deployed": 38,
+    "build_woodbox_deployed": 43,
     "build_flameturret.deployed": 0,
     "build_sam_site_turret_deployed": 0,
     "build_furnace": 10,
     "build_furnace.large": 1,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 12,
-    "build_wall.external.high.wood": 34,
+    "build_wall.external.high.stone": 15,
+    "build_wall.external.high.wood": 41,
     "build_gates.external.high.stone": 1,
     "build_gates.external.high.wood": 2,
-    "build_box.wooden.large": 110
+    "build_box.wooden.large": 112
   },
   {
     "user": {
@@ -398,11 +398,11 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49365362"
+      "lastSessionId": "49469650"
     },
-    "rank": 302,
+    "rank": 255,
     "build_sleepingbag_leather_deployed": 6,
-    "build_bed_deployed": 16,
+    "build_bed_deployed": 18,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
     "build_cupboard.tool.deployed": 8,
@@ -417,7 +417,7 @@
     "build_wall.external.high.wood": 2,
     "build_gates.external.high.stone": 1,
     "build_gates.external.high.wood": 1,
-    "build_box.wooden.large": 17
+    "build_box.wooden.large": 18
   },
   {
     "user": {
@@ -430,7 +430,7 @@
       "roleColor": null,
       "lastSessionId": "49318553"
     },
-    "rank": 774,
+    "rank": 872,
     "build_sleepingbag_leather_deployed": 0,
     "build_bed_deployed": 2,
     "build_locker.deployed": 0,
@@ -458,9 +458,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49343952"
+      "lastSessionId": "49423230"
     },
-    "rank": 370,
+    "rank": 371,
     "build_sleepingbag_leather_deployed": 5,
     "build_bed_deployed": 5,
     "build_locker.deployed": 0,
@@ -473,7 +473,7 @@
     "build_furnace": 0,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 8,
+    "build_wall.external.high.stone": 11,
     "build_wall.external.high.wood": 14,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
@@ -488,11 +488,11 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364548"
+      "lastSessionId": "49457303"
     },
-    "rank": 228,
+    "rank": 205,
     "build_sleepingbag_leather_deployed": 4,
-    "build_bed_deployed": 6,
+    "build_bed_deployed": 8,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
     "build_cupboard.tool.deployed": 3,
@@ -503,11 +503,11 @@
     "build_furnace": 24,
     "build_furnace.large": 7,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 2,
-    "build_wall.external.high.wood": 7,
+    "build_wall.external.high.stone": 7,
+    "build_wall.external.high.wood": 14,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
-    "build_box.wooden.large": 29
+    "build_box.wooden.large": 30
   },
   {
     "user": {
@@ -518,26 +518,26 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49342429"
+      "lastSessionId": "49473295"
     },
-    "rank": 223,
+    "rank": 244,
     "build_sleepingbag_leather_deployed": 0,
-    "build_bed_deployed": 26,
+    "build_bed_deployed": 35,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
-    "build_cupboard.tool.deployed": 38,
+    "build_cupboard.tool.deployed": 42,
     "build_vendingmachine.deployed": 0,
-    "build_woodbox_deployed": 19,
+    "build_woodbox_deployed": 22,
     "build_flameturret.deployed": 0,
     "build_sam_site_turret_deployed": 0,
     "build_furnace": 58,
-    "build_furnace.large": 14,
+    "build_furnace.large": 20,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 127,
-    "build_wall.external.high.wood": 22,
-    "build_gates.external.high.stone": 5,
+    "build_wall.external.high.stone": 184,
+    "build_wall.external.high.wood": 25,
+    "build_gates.external.high.stone": 10,
     "build_gates.external.high.wood": 0,
-    "build_box.wooden.large": 128
+    "build_box.wooden.large": 141
   },
   {
     "user": {
@@ -548,14 +548,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49357348"
+      "lastSessionId": "49470613"
     },
-    "rank": 256,
-    "build_sleepingbag_leather_deployed": 48,
-    "build_bed_deployed": 23,
+    "rank": 227,
+    "build_sleepingbag_leather_deployed": 57,
+    "build_bed_deployed": 27,
     "build_locker.deployed": 0,
     "build_guntrap.deployed": 0,
-    "build_cupboard.tool.deployed": 32,
+    "build_cupboard.tool.deployed": 35,
     "build_vendingmachine.deployed": 0,
     "build_woodbox_deployed": 11,
     "build_flameturret.deployed": 0,
@@ -563,10 +563,40 @@
     "build_furnace": 9,
     "build_furnace.large": 0,
     "build_wall.external.high.ice": 0,
-    "build_wall.external.high.stone": 10,
-    "build_wall.external.high.wood": 7,
+    "build_wall.external.high.stone": 16,
+    "build_wall.external.high.wood": 8,
     "build_gates.external.high.stone": 0,
     "build_gates.external.high.wood": 0,
-    "build_box.wooden.large": 55
+    "build_box.wooden.large": 70
+  },
+  {
+    "user": {
+      "id": "5fc35f8765eb594d1a14a47e",
+      "steamId": "76561198981839511",
+      "name": "mzarex?",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49470613"
+    },
+    "rank": 227,
+    "build_sleepingbag_leather_deployed": 57,
+    "build_bed_deployed": 27,
+    "build_locker.deployed": 0,
+    "build_guntrap.deployed": 0,
+    "build_cupboard.tool.deployed": 35,
+    "build_vendingmachine.deployed": 0,
+    "build_woodbox_deployed": 11,
+    "build_flameturret.deployed": 0,
+    "build_sam_site_turret_deployed": 0,
+    "build_furnace": 9,
+    "build_furnace.large": 0,
+    "build_wall.external.high.ice": 0,
+    "build_wall.external.high.stone": 16,
+    "build_wall.external.high.wood": 8,
+    "build_gates.external.high.stone": 0,
+    "build_gates.external.high.wood": 0,
+    "build_box.wooden.large": 70
   }
 ]
