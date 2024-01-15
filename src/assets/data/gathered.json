@@ -10,7 +10,7 @@
       "roleColor": null,
       "lastSessionId": "49172644"
     },
-    "rank": 283,
+    "rank": 285,
     "gathered_stones": 58120,
     "gathered_wood": 1176918,
     "gathered_hq.metal.ore": 452,
@@ -30,9 +30,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49469139"
+      "lastSessionId": "49473753"
     },
-    "rank": 2137,
+    "rank": 1820,
     "gathered_stones": 100,
     "gathered_wood": 191576,
     "gathered_hq.metal.ore": 0,
@@ -52,9 +52,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49472255"
+      "lastSessionId": "49475420"
     },
-    "rank": 1851,
+    "rank": 1819,
     "gathered_stones": 0,
     "gathered_wood": 241198,
     "gathered_hq.metal.ore": 34,
@@ -120,7 +120,7 @@
       "roleColor": null,
       "lastSessionId": "49449752"
     },
-    "rank": 619,
+    "rank": 622,
     "gathered_stones": 108810,
     "gathered_wood": 1590708,
     "gathered_hq.metal.ore": 1330,
@@ -140,9 +140,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49468620"
+      "lastSessionId": "49474589"
     },
-    "rank": 1814,
+    "rank": 1817,
     "gathered_stones": 108468,
     "gathered_wood": 161278,
     "gathered_hq.metal.ore": 332,
@@ -206,9 +206,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49471829"
+      "lastSessionId": "49475255"
     },
-    "rank": 389,
+    "rank": 382,
     "gathered_stones": 128648,
     "gathered_wood": 6328,
     "gathered_hq.metal.ore": 734,
@@ -228,40 +228,18 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49468696"
+      "lastSessionId": "49476057"
     },
-    "rank": 612,
+    "rank": 605,
     "gathered_stones": 10544,
     "gathered_wood": 158412,
     "gathered_hq.metal.ore": 428,
-    "gathered_sulfur.ore": 69706,
+    "gathered_sulfur.ore": 70306,
     "gathered_cloth": 2820,
     "gathered_leather": 182,
     "gathered_cactusflesh": 0,
     "gathered_fat.animal": 174,
     "gathered_metal.ore": 126370
-  },
-  {
-    "user": {
-      "id": "5c7d2c732eedaf25683e5738",
-      "steamId": "76561198051967014",
-      "name": "[RX] Score",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3b/3b5bc60c71733cadf05c5957ddf903c6a2ec7335_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48269552"
-    },
-    "rank": null,
-    "gathered_stones": 0,
-    "gathered_wood": 0,
-    "gathered_hq.metal.ore": 0,
-    "gathered_sulfur.ore": 0,
-    "gathered_cloth": 0,
-    "gathered_leather": 0,
-    "gathered_cactusflesh": 0,
-    "gathered_fat.animal": 0,
-    "gathered_metal.ore": 0
   },
   {
     "user": {
@@ -294,9 +272,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49469650"
+      "lastSessionId": "49474139"
     },
-    "rank": 253,
+    "rank": 243,
     "gathered_stones": 193618,
     "gathered_wood": 387940,
     "gathered_hq.metal.ore": 528,
@@ -316,9 +294,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49318553"
+      "lastSessionId": "49473657"
     },
-    "rank": 872,
+    "rank": 852,
     "gathered_stones": 17000,
     "gathered_wood": 974,
     "gathered_hq.metal.ore": 468,
@@ -362,7 +340,7 @@
       "roleColor": null,
       "lastSessionId": "49457303"
     },
-    "rank": 205,
+    "rank": 207,
     "gathered_stones": 74674,
     "gathered_wood": 698522,
     "gathered_hq.metal.ore": 696,
@@ -382,9 +360,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473295"
+      "lastSessionId": "49475803"
     },
-    "rank": 244,
+    "rank": 233,
     "gathered_stones": 85574,
     "gathered_wood": 216076,
     "gathered_hq.metal.ore": 540,
@@ -404,9 +382,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49470613"
+      "lastSessionId": "49474633"
     },
-    "rank": 227,
+    "rank": 224,
     "gathered_stones": 22992,
     "gathered_wood": 51528,
     "gathered_hq.metal.ore": 1038,
@@ -419,24 +397,46 @@
   },
   {
     "user": {
-      "id": "5fc35f8765eb594d1a14a47e",
-      "steamId": "76561198981839511",
-      "name": "mzarex?",
+      "id": "5fdce00be760b500190653a5",
+      "steamId": "76561198868273689",
+      "name": "BroDyaGa",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49470613"
+      "lastSessionId": "49463096"
     },
-    "rank": 227,
-    "gathered_stones": 22992,
-    "gathered_wood": 51528,
-    "gathered_hq.metal.ore": 1038,
-    "gathered_sulfur.ore": 236892,
-    "gathered_cloth": 3416,
-    "gathered_leather": 362,
+    "rank": 712,
+    "gathered_stones": 235832,
+    "gathered_wood": 622142,
+    "gathered_hq.metal.ore": 1192,
+    "gathered_sulfur.ore": 248258,
+    "gathered_cloth": 67878,
+    "gathered_leather": 680,
     "gathered_cactusflesh": 0,
-    "gathered_fat.animal": 350,
-    "gathered_metal.ore": 311368
+    "gathered_fat.animal": 668,
+    "gathered_metal.ore": 357512
+  },
+  {
+    "user": {
+      "id": "63ca8317bd95b200133e76b5",
+      "steamId": "76561198930806321",
+      "name": "frestyle",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60bd98d8adab40035cfe08351b5a377a939d65ea_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49475419"
+    },
+    "rank": 355,
+    "gathered_stones": 226978,
+    "gathered_wood": 471162,
+    "gathered_hq.metal.ore": 1266,
+    "gathered_sulfur.ore": 255804,
+    "gathered_cloth": 3102,
+    "gathered_leather": 328,
+    "gathered_cactusflesh": 0,
+    "gathered_fat.animal": 372,
+    "gathered_metal.ore": 381048
   }
 ]

@@ -10,7 +10,7 @@
       "roleColor": null,
       "lastSessionId": "49172644"
     },
-    "rank": 283,
+    "rank": 285,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -29,9 +29,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49469139"
+      "lastSessionId": "49473753"
     },
-    "rank": 2137,
+    "rank": 1820,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -50,9 +50,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49472255"
+      "lastSessionId": "49475420"
     },
-    "rank": 1851,
+    "rank": 1819,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -115,7 +115,7 @@
       "roleColor": null,
       "lastSessionId": "49449752"
     },
-    "rank": 619,
+    "rank": 622,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -134,9 +134,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49468620"
+      "lastSessionId": "49474589"
     },
-    "rank": 1814,
+    "rank": 1817,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 165,
@@ -197,9 +197,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49471829"
+      "lastSessionId": "49475255"
     },
-    "rank": 389,
+    "rank": 382,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -218,36 +218,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49468696"
+      "lastSessionId": "49476057"
     },
-    "rank": 617,
+    "rank": 605,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
     "gambling_slotdeposited": 0,
     "gambling_wheelwon": 798,
     "gambling_wheeldeposited": 2000,
-    "gambling_blackjackdeposited": 0,
-    "gambling_blackjackwon": 0
-  },
-  {
-    "user": {
-      "id": "5c7d2c732eedaf25683e5738",
-      "steamId": "76561198051967014",
-      "name": "[RX] Score",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3b/3b5bc60c71733cadf05c5957ddf903c6a2ec7335_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "48269552"
-    },
-    "rank": null,
-    "gambling_pokerwon": 0,
-    "gambling_pokerdeposited": 0,
-    "gambling_slotwon": 0,
-    "gambling_slotdeposited": 0,
-    "gambling_wheelwon": 0,
-    "gambling_wheeldeposited": 0,
     "gambling_blackjackdeposited": 0,
     "gambling_blackjackwon": 0
   },
@@ -281,9 +260,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49469650"
+      "lastSessionId": "49474139"
     },
-    "rank": 258,
+    "rank": 243,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -302,9 +281,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49318553"
+      "lastSessionId": "49473657"
     },
-    "rank": 872,
+    "rank": 852,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 10,
@@ -346,7 +325,7 @@
       "roleColor": null,
       "lastSessionId": "49457303"
     },
-    "rank": 205,
+    "rank": 206,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -365,9 +344,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473295"
+      "lastSessionId": "49475803"
     },
-    "rank": 244,
+    "rank": 233,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -386,9 +365,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49470613"
+      "lastSessionId": "49474633"
     },
-    "rank": 227,
+    "rank": 224,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
@@ -400,22 +379,43 @@
   },
   {
     "user": {
-      "id": "5fc35f8765eb594d1a14a47e",
-      "steamId": "76561198981839511",
-      "name": "mzarex?",
+      "id": "5fdce00be760b500190653a5",
+      "steamId": "76561198868273689",
+      "name": "BroDyaGa",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49470613"
+      "lastSessionId": "49463096"
     },
-    "rank": 227,
+    "rank": 712,
     "gambling_pokerwon": 0,
     "gambling_pokerdeposited": 0,
     "gambling_slotwon": 0,
     "gambling_slotdeposited": 0,
-    "gambling_wheelwon": 204,
-    "gambling_wheeldeposited": 942,
+    "gambling_wheelwon": 1234,
+    "gambling_wheeldeposited": 1555,
+    "gambling_blackjackdeposited": 0,
+    "gambling_blackjackwon": 0
+  },
+  {
+    "user": {
+      "id": "63ca8317bd95b200133e76b5",
+      "steamId": "76561198930806321",
+      "name": "frestyle",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60bd98d8adab40035cfe08351b5a377a939d65ea_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49475419"
+    },
+    "rank": 355,
+    "gambling_pokerwon": 0,
+    "gambling_pokerdeposited": 0,
+    "gambling_slotwon": 0,
+    "gambling_slotdeposited": 0,
+    "gambling_wheelwon": 0,
+    "gambling_wheeldeposited": 0,
     "gambling_blackjackdeposited": 0,
     "gambling_blackjackwon": 0
   }
