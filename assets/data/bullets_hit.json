@@ -10,7 +10,7 @@
       "roleColor": null,
       "lastSessionId": "49172644"
     },
-    "rank": 237,
+    "rank": 283,
     "hit_npc_headshot": 92,
     "hit_player": 936,
     "hit_player_headshot": 254,
@@ -26,12 +26,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49365384"
+      "lastSessionId": "49469139"
     },
-    "rank": 2583,
+    "rank": 2137,
     "hit_npc_headshot": 0,
-    "hit_player": 22,
-    "hit_player_headshot": 3,
+    "hit_player": 75,
+    "hit_player_headshot": 12,
     "hit_building": 0,
     "hit_npc": 0
   },
@@ -44,12 +44,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363883"
+      "lastSessionId": "49472255"
     },
-    "rank": 1863,
+    "rank": 1851,
     "hit_npc_headshot": 0,
-    "hit_player": 58,
-    "hit_player_headshot": 11,
+    "hit_player": 82,
+    "hit_player_headshot": 14,
     "hit_building": 0,
     "hit_npc": 0
   },
@@ -80,12 +80,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364481"
+      "lastSessionId": "49450661"
     },
-    "rank": 62,
+    "rank": 65,
     "hit_npc_headshot": 591,
-    "hit_player": 1519,
-    "hit_player_headshot": 244,
+    "hit_player": 1686,
+    "hit_player_headshot": 273,
     "hit_building": 2,
     "hit_npc": 123
   },
@@ -98,12 +98,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363970"
+      "lastSessionId": "49449752"
     },
-    "rank": 587,
+    "rank": 619,
     "hit_npc_headshot": 4,
-    "hit_player": 513,
-    "hit_player_headshot": 80,
+    "hit_player": 567,
+    "hit_player_headshot": 85,
     "hit_building": 18,
     "hit_npc": 5
   },
@@ -116,12 +116,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49278567"
+      "lastSessionId": "49468620"
     },
-    "rank": 1644,
+    "rank": 1814,
     "hit_npc_headshot": 86,
-    "hit_player": 174,
-    "hit_player_headshot": 33,
+    "hit_player": 178,
+    "hit_player_headshot": 34,
     "hit_building": 8,
     "hit_npc": 62
   },
@@ -134,13 +134,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363614"
+      "lastSessionId": "49459344"
     },
-    "rank": 432,
+    "rank": 372,
     "hit_npc_headshot": 23,
-    "hit_player": 529,
-    "hit_player_headshot": 90,
-    "hit_building": 46,
+    "hit_player": 681,
+    "hit_player_headshot": 114,
+    "hit_building": 49,
     "hit_npc": 28
   },
   {
@@ -152,12 +152,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49363427"
+      "lastSessionId": "49450541"
     },
     "rank": 123,
     "hit_npc_headshot": 114,
-    "hit_player": 1221,
-    "hit_player_headshot": 300,
+    "hit_player": 1348,
+    "hit_player_headshot": 323,
     "hit_building": 0,
     "hit_npc": 33
   },
@@ -170,12 +170,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364299"
+      "lastSessionId": "49471829"
     },
-    "rank": 387,
+    "rank": 389,
     "hit_npc_headshot": 27,
-    "hit_player": 506,
-    "hit_player_headshot": 94,
+    "hit_player": 589,
+    "hit_player_headshot": 106,
     "hit_building": 0,
     "hit_npc": 24
   },
@@ -188,12 +188,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49315302"
+      "lastSessionId": "49468696"
     },
-    "rank": 586,
+    "rank": 612,
     "hit_npc_headshot": 65,
-    "hit_player": 437,
-    "hit_player_headshot": 70,
+    "hit_player": 449,
+    "hit_player_headshot": 78,
     "hit_building": 0,
     "hit_npc": 30
   },
@@ -224,14 +224,14 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49362981"
+      "lastSessionId": "49456396"
     },
-    "rank": 28,
-    "hit_npc_headshot": 278,
-    "hit_player": 1800,
-    "hit_player_headshot": 423,
+    "rank": 26,
+    "hit_npc_headshot": 296,
+    "hit_player": 1994,
+    "hit_player_headshot": 488,
     "hit_building": 97,
-    "hit_npc": 133
+    "hit_npc": 145
   },
   {
     "user": {
@@ -242,12 +242,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49365362"
+      "lastSessionId": "49469650"
     },
-    "rank": 302,
+    "rank": 249,
     "hit_npc_headshot": 32,
-    "hit_player": 798,
-    "hit_player_headshot": 107,
+    "hit_player": 946,
+    "hit_player_headshot": 138,
     "hit_building": 67,
     "hit_npc": 12
   },
@@ -262,7 +262,7 @@
       "roleColor": null,
       "lastSessionId": "49318553"
     },
-    "rank": 774,
+    "rank": 872,
     "hit_npc_headshot": 50,
     "hit_player": 254,
     "hit_player_headshot": 51,
@@ -278,12 +278,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49343952"
+      "lastSessionId": "49423230"
     },
-    "rank": 370,
+    "rank": 371,
     "hit_npc_headshot": 31,
-    "hit_player": 666,
-    "hit_player_headshot": 84,
+    "hit_player": 778,
+    "hit_player_headshot": 94,
     "hit_building": 0,
     "hit_npc": 37
   },
@@ -296,13 +296,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49364548"
+      "lastSessionId": "49457303"
     },
-    "rank": 228,
+    "rank": 205,
     "hit_npc_headshot": 296,
-    "hit_player": 905,
-    "hit_player_headshot": 170,
-    "hit_building": 177,
+    "hit_player": 1116,
+    "hit_player_headshot": 198,
+    "hit_building": 206,
     "hit_npc": 49
   },
   {
@@ -314,12 +314,12 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49342429"
+      "lastSessionId": "49473295"
     },
-    "rank": 223,
+    "rank": 244,
     "hit_npc_headshot": 154,
-    "hit_player": 848,
-    "hit_player_headshot": 157,
+    "hit_player": 915,
+    "hit_player_headshot": 171,
     "hit_building": 88,
     "hit_npc": 50
   },
@@ -332,13 +332,31 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49357348"
+      "lastSessionId": "49470613"
     },
-    "rank": 256,
-    "hit_npc_headshot": 63,
-    "hit_player": 687,
-    "hit_player_headshot": 184,
-    "hit_building": 60,
-    "hit_npc": 55
+    "rank": 227,
+    "hit_npc_headshot": 69,
+    "hit_player": 947,
+    "hit_player_headshot": 215,
+    "hit_building": 86,
+    "hit_npc": 56
+  },
+  {
+    "user": {
+      "id": "5fc35f8765eb594d1a14a47e",
+      "steamId": "76561198981839511",
+      "name": "mzarex?",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "49470613"
+    },
+    "rank": 227,
+    "hit_npc_headshot": 69,
+    "hit_player": 947,
+    "hit_player_headshot": 215,
+    "hit_building": 86,
+    "hit_npc": 56
   }
 ]
