@@ -8,9 +8,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49172644"
+      "lastSessionId": "49579543"
     },
-    "rank": 285,
+    "rank": 327,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -33,9 +33,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473753"
+      "lastSessionId": "49562518"
     },
-    "rank": 1820,
+    "rank": 723,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -58,9 +58,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475420"
+      "lastSessionId": "49576492"
     },
-    "rank": 1819,
+    "rank": 535,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -69,7 +69,7 @@
     "killed_bear": 0,
     "killed_deer": 0,
     "killed_tunneldweller": 0,
-    "killed_scientist": 0,
+    "killed_scientist": 2,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -83,9 +83,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48820057"
+      "lastSessionId": "49531749"
     },
-    "rank": null,
+    "rank": 2869,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -108,9 +108,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49450661"
+      "lastSessionId": "49538217"
     },
-    "rank": 65,
+    "rank": 74,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -133,15 +133,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49449752"
+      "lastSessionId": "49600198"
     },
-    "rank": 622,
+    "rank": 509,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
-    "killed_boar": 0,
+    "killed_boar": 1,
     "killed_polarbear": 0,
-    "killed_bear": 0,
+    "killed_bear": 1,
     "killed_deer": 0,
     "killed_tunneldweller": 0,
     "killed_scientist": 1,
@@ -158,18 +158,18 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474589"
+      "lastSessionId": "49572629"
     },
-    "rank": 1817,
+    "rank": 1637,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
     "killed_boar": 3,
-    "killed_polarbear": 3,
+    "killed_polarbear": 4,
     "killed_bear": 0,
     "killed_deer": 0,
     "killed_tunneldweller": 1,
-    "killed_scientist": 28,
+    "killed_scientist": 30,
     "killed_underwaterdweller": 1,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -183,9 +183,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49459344"
+      "lastSessionId": "49574499"
     },
-    "rank": 372,
+    "rank": 285,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -208,9 +208,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49450541"
+      "lastSessionId": "49574898"
     },
-    "rank": 123,
+    "rank": 30,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -219,7 +219,7 @@
     "killed_bear": 2,
     "killed_deer": 0,
     "killed_tunneldweller": 0,
-    "killed_scientist": 44,
+    "killed_scientist": 48,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -233,9 +233,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475255"
+      "lastSessionId": "49576117"
     },
-    "rank": 382,
+    "rank": 272,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -243,7 +243,7 @@
     "killed_polarbear": 1,
     "killed_bear": 2,
     "killed_deer": 0,
-    "killed_tunneldweller": 0,
+    "killed_tunneldweller": 36,
     "killed_scientist": 9,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
@@ -258,9 +258,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49476057"
+      "lastSessionId": "49587487"
     },
-    "rank": 605,
+    "rank": 562,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -269,7 +269,7 @@
     "killed_bear": 0,
     "killed_deer": 0,
     "killed_tunneldweller": 12,
-    "killed_scientist": 12,
+    "killed_scientist": 15,
     "killed_underwaterdweller": 1,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -283,18 +283,18 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49456396"
+      "lastSessionId": "49588152"
     },
-    "rank": 26,
+    "rank": 9,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
-    "killed_boar": 0,
+    "killed_boar": 1,
     "killed_polarbear": 7,
     "killed_bear": 2,
     "killed_deer": 0,
-    "killed_tunneldweller": 18,
-    "killed_scientist": 92,
+    "killed_tunneldweller": 98,
+    "killed_scientist": 95,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -308,9 +308,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474139"
+      "lastSessionId": "49582170"
     },
-    "rank": 243,
+    "rank": 114,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -319,7 +319,7 @@
     "killed_bear": 1,
     "killed_deer": 0,
     "killed_tunneldweller": 14,
-    "killed_scientist": 2,
+    "killed_scientist": 3,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -333,9 +333,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473657"
+      "lastSessionId": "49587686"
     },
-    "rank": 852,
+    "rank": 396,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -343,8 +343,8 @@
     "killed_polarbear": 2,
     "killed_bear": 1,
     "killed_deer": 0,
-    "killed_tunneldweller": 15,
-    "killed_scientist": 6,
+    "killed_tunneldweller": 37,
+    "killed_scientist": 8,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -358,9 +358,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49423230"
+      "lastSessionId": "49582017"
     },
-    "rank": 371,
+    "rank": 309,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -383,9 +383,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49457303"
+      "lastSessionId": "49536995"
     },
-    "rank": 206,
+    "rank": 223,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -408,9 +408,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475803"
+      "lastSessionId": "49598337"
     },
-    "rank": 233,
+    "rank": 207,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -418,7 +418,7 @@
     "killed_polarbear": 2,
     "killed_bear": 0,
     "killed_deer": 0,
-    "killed_tunneldweller": 0,
+    "killed_tunneldweller": 35,
     "killed_scientist": 50,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
@@ -428,23 +428,23 @@
     "user": {
       "id": "5fc35f8765eb594d1a14a47e",
       "steamId": "76561198981839511",
-      "name": "mzarex?",
+      "name": "[RX]mzarex?",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474633"
+      "lastSessionId": "49599108"
     },
-    "rank": 224,
+    "rank": 167,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
     "killed_boar": 0,
-    "killed_polarbear": 3,
+    "killed_polarbear": 5,
     "killed_bear": 0,
     "killed_deer": 0,
     "killed_tunneldweller": 34,
-    "killed_scientist": 0,
+    "killed_scientist": 5,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
@@ -458,9 +458,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49463096"
+      "lastSessionId": "49512194"
     },
-    "rank": 712,
+    "rank": 532,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -478,14 +478,14 @@
     "user": {
       "id": "63ca8317bd95b200133e76b5",
       "steamId": "76561198930806321",
-      "name": "frestyle",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60bd98d8adab40035cfe08351b5a377a939d65ea_full.jpg",
+      "name": "Kykykykyk",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/98/983f461a43abc8d5450a5c1985e3cbce03dc7055_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475419"
+      "lastSessionId": "49598931"
     },
-    "rank": 355,
+    "rank": 343,
     "killed_chicken": 0,
     "killed_shark": 0,
     "killed_wolf": 0,
@@ -493,8 +493,8 @@
     "killed_polarbear": 0,
     "killed_bear": 2,
     "killed_deer": 0,
-    "killed_tunneldweller": 0,
-    "killed_scientist": 13,
+    "killed_tunneldweller": 21,
+    "killed_scientist": 19,
     "killed_underwaterdweller": 0,
     "killed_bradley": 0,
     "killed_patrolheli": 0
