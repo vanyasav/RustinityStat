@@ -8,9 +8,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49172644"
+      "lastSessionId": "49579543"
     },
-    "rank": 285,
+    "rank": 327,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
@@ -29,9 +29,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473753"
+      "lastSessionId": "49562518"
     },
-    "rank": 1820,
+    "rank": 723,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
@@ -39,7 +39,7 @@
     "looted_hackablecrate": 0,
     "looted_crate": 8,
     "looted_oilbarrel": 0,
-    "looted_barrel": 0
+    "looted_barrel": 1
   },
   {
     "user": {
@@ -50,17 +50,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475420"
+      "lastSessionId": "49576492"
     },
-    "rank": 1819,
+    "rank": 535,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 3,
-    "looted_oilbarrel": 3,
-    "looted_barrel": 4
+    "looted_crate": 18,
+    "looted_oilbarrel": 10,
+    "looted_barrel": 5
   },
   {
     "user": {
@@ -71,9 +71,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "48820057"
+      "lastSessionId": "49531749"
     },
-    "rank": null,
+    "rank": 2869,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
@@ -92,16 +92,16 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49450661"
+      "lastSessionId": "49538217"
     },
-    "rank": 65,
+    "rank": 74,
     "looted_elitecrate": 21,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 513,
-    "looted_oilbarrel": 86,
+    "looted_crate": 517,
+    "looted_oilbarrel": 88,
     "looted_barrel": 451
   },
   {
@@ -113,17 +113,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49449752"
+      "lastSessionId": "49600198"
     },
-    "rank": 622,
+    "rank": 509,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 116,
-    "looted_oilbarrel": 55,
-    "looted_barrel": 195
+    "looted_crate": 175,
+    "looted_oilbarrel": 71,
+    "looted_barrel": 212
   },
   {
     "user": {
@@ -134,17 +134,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474589"
+      "lastSessionId": "49572629"
     },
-    "rank": 1817,
+    "rank": 1637,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 300,
-    "looted_oilbarrel": 36,
-    "looted_barrel": 179
+    "looted_crate": 318,
+    "looted_oilbarrel": 38,
+    "looted_barrel": 196
   },
   {
     "user": {
@@ -155,15 +155,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49459344"
+      "lastSessionId": "49574499"
     },
-    "rank": 372,
+    "rank": 285,
     "looted_elitecrate": 2,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 502,
+    "looted_crate": 505,
     "looted_oilbarrel": 247,
     "looted_barrel": 916
   },
@@ -176,17 +176,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49450541"
+      "lastSessionId": "49574898"
     },
-    "rank": 123,
+    "rank": 30,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 207,
-    "looted_oilbarrel": 43,
-    "looted_barrel": 131
+    "looted_crate": 232,
+    "looted_oilbarrel": 45,
+    "looted_barrel": 132
   },
   {
     "user": {
@@ -197,15 +197,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475255"
+      "lastSessionId": "49576117"
     },
-    "rank": 382,
+    "rank": 272,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 220,
+    "looted_crate": 261,
     "looted_oilbarrel": 110,
     "looted_barrel": 401
   },
@@ -218,17 +218,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49476057"
+      "lastSessionId": "49587487"
     },
-    "rank": 605,
+    "rank": 562,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 2,
     "looted_hackablecrate": 1,
-    "looted_crate": 515,
-    "looted_oilbarrel": 23,
-    "looted_barrel": 175
+    "looted_crate": 540,
+    "looted_oilbarrel": 33,
+    "looted_barrel": 178
   },
   {
     "user": {
@@ -239,16 +239,16 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49456396"
+      "lastSessionId": "49588152"
     },
-    "rank": 26,
+    "rank": 9,
     "looted_elitecrate": 0,
     "looted_helicrate": 4,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 4,
     "looted_hackablecrate": 0,
-    "looted_crate": 427,
-    "looted_oilbarrel": 19,
+    "looted_crate": 568,
+    "looted_oilbarrel": 24,
     "looted_barrel": 100
   },
   {
@@ -260,17 +260,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474139"
+      "lastSessionId": "49582170"
     },
-    "rank": 243,
+    "rank": 114,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 189,
+    "looted_crate": 194,
     "looted_oilbarrel": 37,
-    "looted_barrel": 261
+    "looted_barrel": 266
   },
   {
     "user": {
@@ -281,17 +281,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49473657"
+      "lastSessionId": "49587686"
     },
-    "rank": 852,
-    "looted_elitecrate": 0,
+    "rank": 396,
+    "looted_elitecrate": 3,
     "looted_helicrate": 2,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 36,
+    "looted_hackablecrate": 5,
+    "looted_crate": 90,
     "looted_oilbarrel": 1,
-    "looted_barrel": 22
+    "looted_barrel": 23
   },
   {
     "user": {
@@ -302,15 +302,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49423230"
+      "lastSessionId": "49582017"
     },
-    "rank": 371,
+    "rank": 309,
     "looted_elitecrate": 3,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 2,
     "looted_hackablecrate": 0,
-    "looted_crate": 134,
+    "looted_crate": 140,
     "looted_oilbarrel": 29,
     "looted_barrel": 77
   },
@@ -323,9 +323,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49457303"
+      "lastSessionId": "49536995"
     },
-    "rank": 206,
+    "rank": 223,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
@@ -344,38 +344,38 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475803"
+      "lastSessionId": "49598337"
     },
-    "rank": 233,
+    "rank": 207,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 2,
+    "looted_supplydrop": 3,
     "looted_hackablecrate": 0,
-    "looted_crate": 113,
-    "looted_oilbarrel": 45,
-    "looted_barrel": 154
+    "looted_crate": 208,
+    "looted_oilbarrel": 54,
+    "looted_barrel": 155
   },
   {
     "user": {
       "id": "5fc35f8765eb594d1a14a47e",
       "steamId": "76561198981839511",
-      "name": "mzarex?",
+      "name": "[RX]mzarex?",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49474633"
+      "lastSessionId": "49599108"
     },
-    "rank": 224,
+    "rank": 167,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 88,
+    "looted_crate": 103,
     "looted_oilbarrel": 7,
-    "looted_barrel": 25
+    "looted_barrel": 41
   },
   {
     "user": {
@@ -386,36 +386,36 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49463096"
+      "lastSessionId": "49512194"
     },
-    "rank": 712,
+    "rank": 532,
     "looted_elitecrate": 0,
     "looted_helicrate": 5,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 2,
     "looted_hackablecrate": 0,
-    "looted_crate": 224,
+    "looted_crate": 228,
     "looted_oilbarrel": 41,
-    "looted_barrel": 158
+    "looted_barrel": 164
   },
   {
     "user": {
       "id": "63ca8317bd95b200133e76b5",
       "steamId": "76561198930806321",
-      "name": "frestyle",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60bd98d8adab40035cfe08351b5a377a939d65ea_full.jpg",
+      "name": "Kykykykyk",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/98/983f461a43abc8d5450a5c1985e3cbce03dc7055_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49475419"
+      "lastSessionId": "49598931"
     },
-    "rank": 355,
+    "rank": 343,
     "looted_elitecrate": 2,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 158,
+    "looted_crate": 211,
     "looted_oilbarrel": 31,
     "looted_barrel": 165
   }
