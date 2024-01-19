@@ -8,9 +8,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49579543"
+      "lastSessionId": "49675154"
     },
-    "rank": 327,
+    "rank": 349,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 14,
     "shot_ammo.shotgun.fire": 83,
@@ -34,22 +34,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49562518"
+      "lastSessionId": "49662799"
     },
-    "rank": 723,
+    "rank": 605,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 5,
     "shot_ammo.shotgun.fire": 0,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 2617,
+    "shot_ammo.rifle": 3373,
     "shot_ammo.handmade.shell": 0,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
-    "shot_ammo.rifle.incendiary": 23,
+    "shot_ammo.rifle.incendiary": 59,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 237
+    "shot_ammo.pistol": 275
   },
   {
     "user": {
@@ -60,22 +60,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49576492"
+      "lastSessionId": "49666106"
     },
-    "rank": 535,
+    "rank": 525,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 0,
     "shot_ammo.shotgun.fire": 0,
     "shot_ammo.shotgun.slug": 6,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 1550,
+    "shot_ammo.rifle": 2022,
     "shot_ammo.handmade.shell": 0,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
     "shot_ammo.rifle.incendiary": 91,
     "shot_ammo.pistol.fire": 18,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 292
+    "shot_ammo.pistol": 360
   },
   {
     "user": {
@@ -86,9 +86,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49531749"
+      "lastSessionId": "49624639"
     },
-    "rank": 2869,
+    "rank": 3107,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 0,
     "shot_ammo.shotgun.fire": 0,
@@ -112,15 +112,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49538217"
+      "lastSessionId": "49624579"
     },
-    "rank": 74,
+    "rank": 87,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 1,
     "shot_ammo.shotgun.fire": 3,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 8458,
+    "shot_ammo.rifle": 8516,
     "shot_ammo.handmade.shell": 0,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
@@ -133,27 +133,27 @@
     "user": {
       "id": "65081f72e6151a0013d74667",
       "steamId": "76561198313534007",
-      "name": "Enotuk",
+      "name": "[RX]Enotuk",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62cbe3649f0341486112650467da5518ec116897_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49600198"
+      "lastSessionId": "49664421"
     },
-    "rank": 509,
+    "rank": 501,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 14,
     "shot_ammo.shotgun.fire": 18,
     "shot_ammo.shotgun.slug": 4,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 6551,
+    "shot_ammo.rifle": 7384,
     "shot_ammo.handmade.shell": 7,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
     "shot_ammo.rifle.incendiary": 66,
     "shot_ammo.pistol.fire": 34,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 2285
+    "shot_ammo.pistol": 2324
   },
   {
     "user": {
@@ -164,9 +164,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49572629"
+      "lastSessionId": "49621987"
     },
-    "rank": 1638,
+    "rank": 1751,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 5,
     "shot_ammo.shotgun.fire": 4,
@@ -190,19 +190,19 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49574499"
+      "lastSessionId": "49675373"
     },
-    "rank": 285,
+    "rank": 290,
     "shot_ammo.snowballgun": 0,
-    "shot_ammo.shotgun": 37,
+    "shot_ammo.shotgun": 38,
     "shot_ammo.shotgun.fire": 3,
     "shot_ammo.shotgun.slug": 2,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 6293,
+    "shot_ammo.rifle": 6531,
     "shot_ammo.handmade.shell": 4,
     "shot_ammo.rifle.hv": 18,
     "shot_ammo.pistol.hv": 12,
-    "shot_ammo.rifle.incendiary": 246,
+    "shot_ammo.rifle.incendiary": 250,
     "shot_ammo.pistol.fire": 135,
     "shot_ammo.nailgun.nails": 0,
     "shot_ammo.pistol": 1020
@@ -216,22 +216,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49574898"
+      "lastSessionId": "49672222"
     },
-    "rank": 30,
+    "rank": 15,
     "shot_ammo.snowballgun": 0,
-    "shot_ammo.shotgun": 4,
-    "shot_ammo.shotgun.fire": 38,
+    "shot_ammo.shotgun": 32,
+    "shot_ammo.shotgun.fire": 52,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 12604,
-    "shot_ammo.handmade.shell": 8,
-    "shot_ammo.rifle.hv": 56,
+    "shot_ammo.rifle": 15006,
+    "shot_ammo.handmade.shell": 9,
+    "shot_ammo.rifle.hv": 119,
     "shot_ammo.pistol.hv": 9,
-    "shot_ammo.rifle.incendiary": 174,
+    "shot_ammo.rifle.incendiary": 215,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 80,
-    "shot_ammo.pistol": 801
+    "shot_ammo.pistol": 1119
   },
   {
     "user": {
@@ -242,22 +242,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49576117"
+      "lastSessionId": "49629106"
     },
-    "rank": 272,
+    "rank": 274,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 4,
     "shot_ammo.shotgun.fire": 0,
     "shot_ammo.shotgun.slug": 2,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 4767,
+    "shot_ammo.rifle": 4845,
     "shot_ammo.handmade.shell": 1,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
     "shot_ammo.rifle.incendiary": 0,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 1039
+    "shot_ammo.pistol": 1116
   },
   {
     "user": {
@@ -268,22 +268,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49587487"
+      "lastSessionId": "49603695"
     },
-    "rank": 562,
+    "rank": 564,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 8,
     "shot_ammo.shotgun.fire": 11,
     "shot_ammo.shotgun.slug": 4,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 3987,
+    "shot_ammo.rifle": 4079,
     "shot_ammo.handmade.shell": 3,
     "shot_ammo.rifle.hv": 2,
     "shot_ammo.pistol.hv": 0,
     "shot_ammo.rifle.incendiary": 177,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 852
+    "shot_ammo.pistol": 913
   },
   {
     "user": {
@@ -294,22 +294,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49588152"
+      "lastSessionId": "49652366"
     },
-    "rank": 9,
+    "rank": 6,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 14,
     "shot_ammo.shotgun.fire": 7,
     "shot_ammo.shotgun.slug": 2,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 17902,
-    "shot_ammo.handmade.shell": 8,
-    "shot_ammo.rifle.hv": 28,
+    "shot_ammo.rifle": 20310,
+    "shot_ammo.handmade.shell": 10,
+    "shot_ammo.rifle.hv": 34,
     "shot_ammo.pistol.hv": 0,
-    "shot_ammo.rifle.incendiary": 166,
-    "shot_ammo.pistol.fire": 158,
+    "shot_ammo.rifle.incendiary": 173,
+    "shot_ammo.pistol.fire": 165,
     "shot_ammo.nailgun.nails": 8,
-    "shot_ammo.pistol": 2642
+    "shot_ammo.pistol": 3061
   },
   {
     "user": {
@@ -320,15 +320,15 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49582170"
+      "lastSessionId": "49612607"
     },
-    "rank": 114,
+    "rank": 125,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 77,
     "shot_ammo.shotgun.fire": 11,
     "shot_ammo.shotgun.slug": 89,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 6910,
+    "shot_ammo.rifle": 7111,
     "shot_ammo.handmade.shell": 1,
     "shot_ammo.rifle.hv": 51,
     "shot_ammo.pistol.hv": 0,
@@ -346,22 +346,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49587686"
+      "lastSessionId": "49665723"
     },
-    "rank": 396,
+    "rank": 352,
     "shot_ammo.snowballgun": 0,
-    "shot_ammo.shotgun": 10,
+    "shot_ammo.shotgun": 16,
     "shot_ammo.shotgun.fire": 3,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 5594,
-    "shot_ammo.handmade.shell": 1,
-    "shot_ammo.rifle.hv": 42,
+    "shot_ammo.rifle": 6052,
+    "shot_ammo.handmade.shell": 2,
+    "shot_ammo.rifle.hv": 49,
     "shot_ammo.pistol.hv": 0,
     "shot_ammo.rifle.incendiary": 122,
     "shot_ammo.pistol.fire": 38,
-    "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 808
+    "shot_ammo.nailgun.nails": 37,
+    "shot_ammo.pistol": 1031
   },
   {
     "user": {
@@ -374,7 +374,7 @@
       "roleColor": null,
       "lastSessionId": "49582017"
     },
-    "rank": 309,
+    "rank": 330,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 12,
     "shot_ammo.shotgun.fire": 6,
@@ -398,9 +398,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49536995"
+      "lastSessionId": "49676330"
     },
-    "rank": 223,
+    "rank": 235,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 3,
     "shot_ammo.shotgun.fire": 7,
@@ -424,9 +424,9 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49598337"
+      "lastSessionId": "49614077"
     },
-    "rank": 207,
+    "rank": 220,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 72,
     "shot_ammo.shotgun.fire": 11,
@@ -450,22 +450,22 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49599108"
+      "lastSessionId": "49658031"
     },
-    "rank": 167,
+    "rank": 146,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 2,
     "shot_ammo.shotgun.fire": 6,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 8895,
+    "shot_ammo.rifle": 9901,
     "shot_ammo.handmade.shell": 10,
     "shot_ammo.rifle.hv": 0,
     "shot_ammo.pistol.hv": 0,
-    "shot_ammo.rifle.incendiary": 343,
+    "shot_ammo.rifle.incendiary": 345,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 1244
+    "shot_ammo.pistol": 1275
   },
   {
     "user": {
@@ -476,47 +476,21 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49512194"
+      "lastSessionId": "49676604"
     },
-    "rank": 532,
+    "rank": 529,
     "shot_ammo.snowballgun": 0,
     "shot_ammo.shotgun": 14,
     "shot_ammo.shotgun.fire": 0,
     "shot_ammo.shotgun.slug": 0,
     "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 4263,
+    "shot_ammo.rifle": 4596,
     "shot_ammo.handmade.shell": 23,
     "shot_ammo.rifle.hv": 3,
     "shot_ammo.pistol.hv": 0,
-    "shot_ammo.rifle.incendiary": 0,
+    "shot_ammo.rifle.incendiary": 26,
     "shot_ammo.pistol.fire": 0,
     "shot_ammo.nailgun.nails": 0,
-    "shot_ammo.pistol": 815
-  },
-  {
-    "user": {
-      "id": "63ca8317bd95b200133e76b5",
-      "steamId": "76561198930806321",
-      "name": "Kykykykyk",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/98/983f461a43abc8d5450a5c1985e3cbce03dc7055_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49598931"
-    },
-    "rank": 343,
-    "shot_ammo.snowballgun": 0,
-    "shot_ammo.shotgun": 9,
-    "shot_ammo.shotgun.fire": 3,
-    "shot_ammo.shotgun.slug": 0,
-    "shot_ammo.grenadelauncher.buckshot": 0,
-    "shot_ammo.rifle": 4428,
-    "shot_ammo.handmade.shell": 5,
-    "shot_ammo.rifle.hv": 2,
-    "shot_ammo.pistol.hv": 0,
-    "shot_ammo.rifle.incendiary": 103,
-    "shot_ammo.pistol.fire": 14,
-    "shot_ammo.nailgun.nails": 53,
-    "shot_ammo.pistol": 1184
+    "shot_ammo.pistol": 845
   }
 ]
