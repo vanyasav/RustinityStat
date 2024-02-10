@@ -4,34 +4,17 @@
       "id": "60da1b2e9417df0012b0c5da",
       "steamId": "76561198049757349",
       "name": "vanyasav",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4f/4f4ee286a40a10a7cc01492244921df424102daf_full.jpg",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/78/781d461dca856ffb11472cc14b9c66e817738d76_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49675154"
+      "lastSessionId": "50766430"
     },
-    "rank": 349,
-    "kills": 185,
-    "deaths": 359,
-    "kdr": 2.2200557103064065,
-    "playtime": 284002
-  },
-  {
-    "user": {
-      "id": "6568bc40663930001a462945",
-      "steamId": "76561199576394351",
-      "name": "[RX] Pupsen",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9a/9ade1d66dce5d42779192006ede212b131ab4a87_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49662799"
-    },
-    "rank": 605,
-    "kills": 124,
-    "deaths": 213,
-    "kdr": 0.11911623439000961,
-    "playtime": 317692
+    "rank": 660,
+    "kills": 74,
+    "deaths": 292,
+    "kdr": 3.792207792207792,
+    "playtime": 259176
   },
   {
     "user": {
@@ -42,13 +25,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49666106"
+      "lastSessionId": "50721500"
     },
-    "rank": 525,
-    "kills": 138,
-    "deaths": 165,
-    "kdr": 165,
-    "playtime": 223659
+    "rank": 981,
+    "kills": 43,
+    "deaths": 335,
+    "kdr": 8.96600566572238,
+    "playtime": 303578
   },
   {
     "user": {
@@ -59,30 +42,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49624639"
+      "lastSessionId": "50614903"
     },
-    "rank": 3107,
-    "kills": 13,
-    "deaths": 26,
-    "kdr": 26.346153846153847,
-    "playtime": 15361
-  },
-  {
-    "user": {
-      "id": "64c2c5ea7c64030013316b0a",
-      "steamId": "76561199100456947",
-      "name": "Julian",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/54/548e77e68a73b6c128a14b95ce9fa9895e5f0c8a_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49624579"
-    },
-    "rank": 87,
-    "kills": 390,
-    "deaths": 363,
-    "kdr": 2.393939393939394,
-    "playtime": 291303
+    "rank": 1914,
+    "kills": 12,
+    "deaths": 20,
+    "kdr": 5.467005076142132,
+    "playtime": 24700
   },
   {
     "user": {
@@ -93,30 +59,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49664421"
+      "lastSessionId": "50733269"
     },
-    "rank": 501,
-    "kills": 143,
-    "deaths": 582,
-    "kdr": 7.864864864864865,
-    "playtime": 591688
-  },
-  {
-    "user": {
-      "id": "62fd557ff0b889001bfec201",
-      "steamId": "76561198150912098",
-      "name": "[TJ] Хирсак",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1d2f4dbd06b6308faa7684bc8d6a1756edf5d51b_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49621987"
-    },
-    "rank": 1748,
-    "kills": 38,
-    "deaths": 277,
-    "kdr": 4.9891696750902526,
-    "playtime": 186202
+    "rank": 679,
+    "kills": 71,
+    "deaths": 399,
+    "kdr": 1.037593984962406,
+    "playtime": 311316
   },
   {
     "user": {
@@ -127,13 +76,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49675373"
+      "lastSessionId": "50737808"
     },
-    "rank": 290,
-    "kills": 212,
-    "deaths": 544,
-    "kdr": 1.2922794117647058,
-    "playtime": 335852
+    "rank": 483,
+    "kills": 100,
+    "deaths": 235,
+    "kdr": 3.5617021276595744,
+    "playtime": 188378
   },
   {
     "user": {
@@ -144,13 +93,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49672222"
+      "lastSessionId": "50770679"
     },
-    "rank": 15,
-    "kills": 650,
-    "deaths": 457,
-    "kdr": 11.717948717948717,
-    "playtime": 480165
+    "rank": 60,
+    "kills": 346,
+    "deaths": 340,
+    "kdr": 20.688235294117646,
+    "playtime": 276711
   },
   {
     "user": {
@@ -161,13 +110,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49629106"
+      "lastSessionId": "50764267"
     },
-    "rank": 274,
-    "kills": 216,
-    "deaths": 374,
-    "kdr": 0.6666666666666666,
-    "playtime": 323762
+    "rank": 278,
+    "kills": 154,
+    "deaths": 289,
+    "kdr": 9.366782006920415,
+    "playtime": 243365
   },
   {
     "user": {
@@ -178,13 +127,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49603695"
+      "lastSessionId": "49718533"
     },
-    "rank": 563,
-    "kills": 132,
-    "deaths": 360,
-    "kdr": 1.2805555555555554,
-    "playtime": 497683
+    "rank": null,
+    "kills": 0,
+    "deaths": 0,
+    "kdr": 0,
+    "playtime": 0
   },
   {
     "user": {
@@ -195,13 +144,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49652366"
+      "lastSessionId": "50729856"
     },
-    "rank": 6,
-    "kills": 780,
-    "deaths": 853,
-    "kdr": 8.249706916764362,
-    "playtime": 610763
+    "rank": 178,
+    "kills": 206,
+    "deaths": 297,
+    "kdr": 23,
+    "playtime": 196608
   },
   {
     "user": {
@@ -212,13 +161,13 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49612607"
+      "lastSessionId": "50729123"
     },
-    "rank": 125,
-    "kills": 341,
-    "deaths": 311,
-    "kdr": 1.9228295819935692,
-    "playtime": 472844
+    "rank": 604,
+    "kills": 80,
+    "deaths": 157,
+    "kdr": 4.522292993630574,
+    "playtime": 279043
   },
   {
     "user": {
@@ -229,97 +178,97 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49665723"
+      "lastSessionId": "50766874"
     },
-    "rank": 352,
-    "kills": 184,
-    "deaths": 337,
-    "kdr": 6.242424242424242,
-    "playtime": 237842
-  },
-  {
-    "user": {
-      "id": "64c2c9828788d20014698ebc",
-      "steamId": "76561198303680472",
-      "name": "Rico",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d6/d6fb517bdcf6048d4aef116b85167e4861d3beb8_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49582017"
-    },
-    "rank": 330,
-    "kills": 192,
-    "deaths": 200,
-    "kdr": 2.36,
-    "playtime": 162835
+    "rank": 363,
+    "kills": 130,
+    "deaths": 284,
+    "kdr": 2.8028169014084505,
+    "playtime": 264579
   },
   {
     "user": {
       "id": "61eff955e345af001a1d53c9",
       "steamId": "76561199130695763",
       "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/97/979935af6766708531cd9e6a836e135e8a003ddd_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49676330"
+      "lastSessionId": "50430573"
     },
-    "rank": 235,
-    "kills": 244,
-    "deaths": 388,
-    "kdr": 1.7399103139013452,
-    "playtime": 382529
+    "rank": 1167,
+    "kills": 33,
+    "deaths": 66,
+    "kdr": 7.875,
+    "playtime": 135563
   },
   {
     "user": {
       "id": "645c9ba620477d0013fa2c56",
       "steamId": "76561199473032551",
-      "name": ".sematary",
+      "name": "[RX] .sematary",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/14/14f67cfb1a1936c6c68944d9700f708a7cb53776_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49614077"
+      "lastSessionId": "50658321"
     },
-    "rank": 220,
-    "kills": 252,
-    "deaths": 470,
-    "kdr": 1.9234042553191488,
-    "playtime": 585992
+    "rank": 707,
+    "kills": 66,
+    "deaths": 225,
+    "kdr": 0.28125,
+    "playtime": 170483
   },
   {
     "user": {
       "id": "5fc35f8765eb594d1a14a47e",
       "steamId": "76561198981839511",
-      "name": "[RX]mzarex?",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "name": "[RX]  mzarexxx <​3",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/53/53c5047805cd7299a6306372f742261612b34fa4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49658031"
+      "lastSessionId": "50763878"
     },
-    "rank": 146,
-    "kills": 319,
-    "deaths": 319,
-    "kdr": 0.12225705329153605,
-    "playtime": 366987
+    "rank": 109,
+    "kills": 261,
+    "deaths": 462,
+    "kdr": 3.183982683982684,
+    "playtime": 375743
   },
   {
     "user": {
-      "id": "5fdce00be760b500190653a5",
-      "steamId": "76561198868273689",
-      "name": "BroDyaGa",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "id": "60084a31bdfce3001ad00908",
+      "steamId": "76561198251776632",
+      "name": "Absolute",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c9/c9ded4fdaf33baacb3bf644a85b40ca8873b949a_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49676604"
+      "lastSessionId": "50737516"
     },
-    "rank": 529,
-    "kills": 138,
-    "deaths": 434,
-    "kdr": 31,
-    "playtime": 399338
+    "rank": 81,
+    "kills": 295,
+    "deaths": 416,
+    "kdr": 1.6923076923076923,
+    "playtime": 354572
+  },
+  {
+    "user": {
+      "id": "5c7d1ed12eedaf25683e140b",
+      "steamId": "76561198016666073",
+      "name": "?litcascade",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf73b94eae52cd1b928e64a32db7defd3e05c1c7_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "50748600"
+    },
+    "rank": 24,
+    "kills": 484,
+    "deaths": 490,
+    "kdr": 1.0755102040816327,
+    "playtime": 345634
   }
 ]

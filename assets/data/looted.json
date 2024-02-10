@@ -4,42 +4,21 @@
       "id": "60da1b2e9417df0012b0c5da",
       "steamId": "76561198049757349",
       "name": "vanyasav",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4f/4f4ee286a40a10a7cc01492244921df424102daf_full.jpg",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/78/781d461dca856ffb11472cc14b9c66e817738d76_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49675154"
+      "lastSessionId": "50766430"
     },
-    "rank": 349,
-    "looted_elitecrate": 0,
-    "looted_helicrate": 0,
-    "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 243,
-    "looted_oilbarrel": 34,
-    "looted_barrel": 133
-  },
-  {
-    "user": {
-      "id": "6568bc40663930001a462945",
-      "steamId": "76561199576394351",
-      "name": "[RX] Pupsen",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9a/9ade1d66dce5d42779192006ede212b131ab4a87_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49662799"
-    },
-    "rank": 605,
+    "rank": 660,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 12,
-    "looted_oilbarrel": 0,
-    "looted_barrel": 1
+    "looted_crate": 254,
+    "looted_oilbarrel": 37,
+    "looted_barrel": 157
   },
   {
     "user": {
@@ -50,17 +29,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49666106"
+      "lastSessionId": "50721500"
     },
-    "rank": 525,
+    "rank": 981,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 37,
-    "looted_oilbarrel": 10,
-    "looted_barrel": 5
+    "looted_crate": 172,
+    "looted_oilbarrel": 53,
+    "looted_barrel": 286
   },
   {
     "user": {
@@ -71,38 +50,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49624639"
+      "lastSessionId": "50614903"
     },
-    "rank": 3107,
+    "rank": 1914,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
     "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 1,
-    "looted_oilbarrel": 0,
-    "looted_barrel": 3
-  },
-  {
-    "user": {
-      "id": "64c2c5ea7c64030013316b0a",
-      "steamId": "76561199100456947",
-      "name": "Julian",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/54/548e77e68a73b6c128a14b95ce9fa9895e5f0c8a_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49624579"
-    },
-    "rank": 87,
-    "looted_elitecrate": 21,
-    "looted_helicrate": 0,
-    "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 518,
-    "looted_oilbarrel": 88,
-    "looted_barrel": 451
+    "looted_crate": 4,
+    "looted_oilbarrel": 2,
+    "looted_barrel": 7
   },
   {
     "user": {
@@ -113,38 +71,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49664421"
+      "lastSessionId": "50733269"
     },
-    "rank": 501,
+    "rank": 679,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 0,
+    "looted_supplydrop": 4,
     "looted_hackablecrate": 0,
-    "looted_crate": 176,
-    "looted_oilbarrel": 71,
-    "looted_barrel": 212
-  },
-  {
-    "user": {
-      "id": "62fd557ff0b889001bfec201",
-      "steamId": "76561198150912098",
-      "name": "[TJ] Хирсак",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1d2f4dbd06b6308faa7684bc8d6a1756edf5d51b_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49621987"
-    },
-    "rank": 1749,
-    "looted_elitecrate": 0,
-    "looted_helicrate": 0,
-    "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 319,
-    "looted_oilbarrel": 38,
-    "looted_barrel": 196
+    "looted_crate": 283,
+    "looted_oilbarrel": 55,
+    "looted_barrel": 160
   },
   {
     "user": {
@@ -155,17 +92,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49675373"
+      "lastSessionId": "50737808"
     },
-    "rank": 290,
-    "looted_elitecrate": 2,
+    "rank": 483,
+    "looted_elitecrate": 1,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 505,
-    "looted_oilbarrel": 247,
-    "looted_barrel": 916
+    "looted_supplydrop": 4,
+    "looted_hackablecrate": 1,
+    "looted_crate": 292,
+    "looted_oilbarrel": 141,
+    "looted_barrel": 576
   },
   {
     "user": {
@@ -176,17 +113,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49672222"
+      "lastSessionId": "50770679"
     },
-    "rank": 15,
+    "rank": 60,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
-    "looted_bradleycrate": 2,
-    "looted_supplydrop": 1,
-    "looted_hackablecrate": 0,
-    "looted_crate": 285,
-    "looted_oilbarrel": 52,
-    "looted_barrel": 164
+    "looted_bradleycrate": 0,
+    "looted_supplydrop": 3,
+    "looted_hackablecrate": 1,
+    "looted_crate": 485,
+    "looted_oilbarrel": 19,
+    "looted_barrel": 106
   },
   {
     "user": {
@@ -197,17 +134,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49629106"
+      "lastSessionId": "50764267"
     },
-    "rank": 274,
+    "rank": 278,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
+    "looted_supplydrop": 5,
     "looted_hackablecrate": 0,
-    "looted_crate": 282,
-    "looted_oilbarrel": 110,
-    "looted_barrel": 425
+    "looted_crate": 309,
+    "looted_oilbarrel": 51,
+    "looted_barrel": 143
   },
   {
     "user": {
@@ -218,17 +155,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49603695"
+      "lastSessionId": "49718533"
     },
-    "rank": 564,
+    "rank": null,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 2,
-    "looted_hackablecrate": 1,
-    "looted_crate": 543,
-    "looted_oilbarrel": 33,
-    "looted_barrel": 181
+    "looted_supplydrop": 0,
+    "looted_hackablecrate": 0,
+    "looted_crate": 0,
+    "looted_oilbarrel": 0,
+    "looted_barrel": 0
   },
   {
     "user": {
@@ -239,17 +176,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49652366"
+      "lastSessionId": "50729856"
     },
-    "rank": 6,
+    "rank": 178,
     "looted_elitecrate": 0,
-    "looted_helicrate": 4,
-    "looted_bradleycrate": 5,
-    "looted_supplydrop": 4,
+    "looted_helicrate": 0,
+    "looted_bradleycrate": 0,
+    "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 619,
-    "looted_oilbarrel": 24,
-    "looted_barrel": 114
+    "looted_crate": 28,
+    "looted_oilbarrel": 0,
+    "looted_barrel": 6
   },
   {
     "user": {
@@ -260,17 +197,17 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49612607"
+      "lastSessionId": "50729123"
     },
-    "rank": 125,
+    "rank": 604,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 0,
+    "looted_supplydrop": 3,
     "looted_hackablecrate": 0,
-    "looted_crate": 194,
-    "looted_oilbarrel": 37,
-    "looted_barrel": 266
+    "looted_crate": 309,
+    "looted_oilbarrel": 139,
+    "looted_barrel": 683
   },
   {
     "user": {
@@ -281,121 +218,121 @@
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49665723"
+      "lastSessionId": "50766874"
     },
-    "rank": 352,
-    "looted_elitecrate": 3,
-    "looted_helicrate": 2,
-    "looted_bradleycrate": 0,
-    "looted_supplydrop": 2,
-    "looted_hackablecrate": 5,
-    "looted_crate": 95,
-    "looted_oilbarrel": 4,
-    "looted_barrel": 23
-  },
-  {
-    "user": {
-      "id": "64c2c9828788d20014698ebc",
-      "steamId": "76561198303680472",
-      "name": "Rico",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d6/d6fb517bdcf6048d4aef116b85167e4861d3beb8_full.jpg",
-      "roleId": null,
-      "roleName": null,
-      "roleColor": null,
-      "lastSessionId": "49582017"
-    },
-    "rank": 330,
-    "looted_elitecrate": 3,
+    "rank": 363,
+    "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 2,
+    "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 140,
-    "looted_oilbarrel": 29,
-    "looted_barrel": 77
+    "looted_crate": 277,
+    "looted_oilbarrel": 52,
+    "looted_barrel": 245
   },
   {
     "user": {
       "id": "61eff955e345af001a1d53c9",
       "steamId": "76561199130695763",
       "name": "[RX] DarK",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/97/979935af6766708531cd9e6a836e135e8a003ddd_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49676330"
+      "lastSessionId": "50430573"
     },
-    "rank": 235,
-    "looted_elitecrate": 0,
+    "rank": 1167,
+    "looted_elitecrate": 3,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 1,
+    "looted_supplydrop": 0,
     "looted_hackablecrate": 0,
-    "looted_crate": 284,
+    "looted_crate": 76,
     "looted_oilbarrel": 21,
-    "looted_barrel": 99
+    "looted_barrel": 97
   },
   {
     "user": {
       "id": "645c9ba620477d0013fa2c56",
       "steamId": "76561199473032551",
-      "name": ".sematary",
+      "name": "[RX] .sematary",
       "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/14/14f67cfb1a1936c6c68944d9700f708a7cb53776_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49614077"
+      "lastSessionId": "50658321"
     },
-    "rank": 220,
+    "rank": 707,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 3,
+    "looted_supplydrop": 1,
     "looted_hackablecrate": 0,
-    "looted_crate": 208,
-    "looted_oilbarrel": 54,
-    "looted_barrel": 155
+    "looted_crate": 187,
+    "looted_oilbarrel": 34,
+    "looted_barrel": 131
   },
   {
     "user": {
       "id": "5fc35f8765eb594d1a14a47e",
       "steamId": "76561198981839511",
-      "name": "[RX]mzarex?",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "name": "[RX]  mzarexxx <​3",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/53/53c5047805cd7299a6306372f742261612b34fa4_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49658031"
+      "lastSessionId": "50763878"
     },
-    "rank": 146,
+    "rank": 109,
     "looted_elitecrate": 0,
     "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 0,
+    "looted_supplydrop": 8,
     "looted_hackablecrate": 0,
-    "looted_crate": 104,
-    "looted_oilbarrel": 7,
-    "looted_barrel": 41
+    "looted_crate": 176,
+    "looted_oilbarrel": 12,
+    "looted_barrel": 117
   },
   {
     "user": {
-      "id": "5fdce00be760b500190653a5",
-      "steamId": "76561198868273689",
-      "name": "BroDyaGa",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+      "id": "60084a31bdfce3001ad00908",
+      "steamId": "76561198251776632",
+      "name": "Absolute",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c9/c9ded4fdaf33baacb3bf644a85b40ca8873b949a_full.jpg",
       "roleId": null,
       "roleName": null,
       "roleColor": null,
-      "lastSessionId": "49676604"
+      "lastSessionId": "50737516"
     },
-    "rank": 529,
-    "looted_elitecrate": 0,
-    "looted_helicrate": 5,
+    "rank": 81,
+    "looted_elitecrate": 1,
+    "looted_helicrate": 0,
     "looted_bradleycrate": 0,
-    "looted_supplydrop": 2,
-    "looted_hackablecrate": 0,
-    "looted_crate": 228,
-    "looted_oilbarrel": 41,
-    "looted_barrel": 164
+    "looted_supplydrop": 10,
+    "looted_hackablecrate": 1,
+    "looted_crate": 552,
+    "looted_oilbarrel": 60,
+    "looted_barrel": 350
+  },
+  {
+    "user": {
+      "id": "5c7d1ed12eedaf25683e140b",
+      "steamId": "76561198016666073",
+      "name": "?litcascade",
+      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf73b94eae52cd1b928e64a32db7defd3e05c1c7_full.jpg",
+      "roleId": null,
+      "roleName": null,
+      "roleColor": null,
+      "lastSessionId": "50748600"
+    },
+    "rank": 24,
+    "looted_elitecrate": 5,
+    "looted_helicrate": 0,
+    "looted_bradleycrate": 0,
+    "looted_supplydrop": 8,
+    "looted_hackablecrate": 1,
+    "looted_crate": 640,
+    "looted_oilbarrel": 33,
+    "looted_barrel": 99
   }
 ]
